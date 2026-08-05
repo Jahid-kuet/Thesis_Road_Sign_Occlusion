@@ -1,0 +1,778 @@
+image_id,filename,true_label,predicted_label,true_class_name,predicted_class_name,condition,correct
+2362,photo_90_2024-12-18_13-05-57.jpg,1,1,give way,give way,opened,True
+1540,photo_5278624148517676508_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2565,photo_5278624148517676527_y.jpg,1,1,give way,give way,closed,True
+2843,photo_48_2024-12-09_12-46-01.jpg,2,7,tow truck,stop line,opened,False
+2000,photo_84_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2460,photo_15_2024-12-05_22-23-10.jpg,1,1,give way,give way,closed,True
+4454,photo_11_2024-04-25_12-41-12_4_7.jpg,8,8,right,right,opened,True
+1976,photo_81_2024-12-07_12-47-32_1.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4134,photo_8_2024-04-25_12-41-12_1.jpg,6,6,left,left,opened,True
+4388,photo_65_2024-12-07_12-47-32.jpg,7,7,stop line,stop line,closed,True
+1319,photo_41_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+825,photo_92_2024-12-18_13-05-57.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3536,photo_62_2024-12-18_13-06-32.jpg,4,4,parking place,parking place,opened,True
+4047,photo_30_2024-04-25_12-41-12.jpg,6,9,left,straight,opened,False
+1320,photo_41_2024-12-07_12-48-02.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2833,photo_43_2024-12-19_02-00-05.jpg,2,2,tow truck,tow truck,opened,True
+1108,photo_20_2024-12-09_12-46-32.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3525,photo_5_2024-12-09_12-46-01.jpg,4,0,parking place,pedestrian crossing,opened,False
+4602,photo_7_2024-04-25_12-43-13.jpg,8,8,right,right,opened,True
+68,photo_15_2024-12-09_12-50-33.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2546,photo_46_2024-12-07_12-46-04.jpg,1,1,give way,give way,closed,True
+35,photo_12_2024-12-18_02-27-47.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+5042,photo_25_2024-12-18_02-33-06.jpg,11,11,no entry,no entry,opened,True
+1050,photo_15_2024-10-29_09-42-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4777,photo_5_2024-04-25_12-20-30.jpg,9,9,straight,straight,opened,True
+3523,photo_59_2024-12-18_12-58-24.jpg,4,4,parking place,parking place,opened,True
+1216,photo_31_2024-10-29_09-53-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+113,photo_18_2024-12-19_00-11-08.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1907,photo_75_2024-12-07_12-46-04.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2713,photo_9_2024-12-07_12-51-07.jpg,1,1,give way,give way,closed,True
+1840,photo_69_2024-12-07_12-48-02.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2982,IMG_20241017_161346.jpg,2,2,tow truck,tow truck,closed,True
+4709,photo_25_2024-04-25_12-41-12.jpg,9,9,straight,straight,opened,True
+2505,photo_31_2024-12-07_12-49-18.jpg,1,1,give way,give way,closed,True
+278,photo_33_2024-12-18_13-02-03.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1292,photo_39_2024-12-06_22-23-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+165,photo_22_2024-12-18_13-04-36.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2147,photo_13_2024-12-18_02-37-13.jpg,1,1,give way,give way,opened,True
+2052,photo_89_2024-12-07_12-49-18.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4207,photo_26_2024-12-18_02-29-08.jpg,7,2,stop line,tow truck,opened,False
+659,photo_74_2024-12-18_12-58-24.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2937,photo_86_2024-12-18_13-02-04.jpg,2,2,tow truck,tow truck,opened,True
+4918,photo_29_2024-12-07_12-46-04.jpg,10,10,bus stop,bus stop,closed,True
+4761,photo_4_2024-05-17_15-34-25.jpg,9,9,straight,straight,opened,True
+4109,photo_64_2024-12-19_02-00-05.jpg,6,6,left,left,opened,True
+5121,photo_72_2024-12-18_13-06-32.jpg,11,11,no entry,no entry,opened,True
+2650,photo_6_2024-12-05_22-23-10.jpg,1,1,give way,give way,closed,True
+3069,photo_19_2024-12-18_13-00-25.jpg,3,3,no stopping,no stopping,opened,True
+1424,photo_50_2024-12-07_12-49-18.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1546,photo_5278624148517676542_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1497,photo_5278624148517676388_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2174,photo_18_2024-12-18_13-05-57.jpg,1,1,give way,give way,opened,True
+91,photo_17_2024-12-09_12-46-32.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+369,photo_40_2024-12-18_13-05-23.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4327,photo_99_2024-12-18_02-36-53.jpg,7,7,stop line,stop line,opened,True
+3049,photo_11_2024-12-18_13-00-25.jpg,3,3,no stopping,no stopping,opened,True
+1053,photo_15_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2478,photo_1_2024-12-07_12-51-07.jpg,1,1,give way,give way,closed,True
+1228,photo_32_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4695,photo_16_2024-04-25_12-41-12.jpg,9,9,straight,straight,opened,True
+1893,photo_74_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1844,photo_6_2024-10-29_09-53-08.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4473,photo_19_2024-04-25_12-41-12_7.jpg,8,8,right,right,opened,True
+3429,photo_27_2024-12-19_01-59-18.jpg,4,4,parking place,parking place,opened,True
+2368,photo_94_2024-12-18_12-58-24.jpg,1,1,give way,give way,opened,True
+4694,photo_15_2024-11-28_18-31-49.jpg,9,9,straight,straight,opened,True
+4466,photo_17_2024-04-25_12-41-12.jpg,8,9,right,straight,opened,False
+1902,photo_75_2024-10-29_09-53-08.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+776,photo_87_2024-12-19_02-04-55.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3368,photo_13_2024-12-18_02-17-32.jpg,4,4,parking place,parking place,opened,True
+2061,photo_8_2024-12-06_22-23-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1603,photo_5278624148517676713_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3757,photo_50_2024-12-19_01-58-39.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+2997,photo_35_2024-12-06_22-25-22.jpg,2,2,tow truck,tow truck,closed,True
+4713,photo_26_2024-04-25_12-20-30.jpg,9,9,straight,straight,opened,True
+5100,photo_57_2024-12-18_02-27-47.jpg,11,11,no entry,no entry,opened,True
+3722,photo_39_2024-12-18_02-22-06.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+1446,photo_5278624148517676315_y (2).jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+483,photo_56_2024-12-09_12-49-48.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3810,photo_78_2024-12-19_00-10-31.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+2075,photo_91_2024-12-05_22-22-53.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4490,photo_22_2024-04-25_12-43-13.jpg,8,9,right,straight,opened,False
+1472,photo_5278624148517676351_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4182,photo_12_2024-12-18_02-29-08.jpg,7,7,stop line,stop line,opened,True
+4635,IMG_0760_7.JPG,9,9,straight,straight,opened,True
+3478,photo_44_2024-12-19_01-59-18.jpg,4,4,parking place,parking place,opened,True
+3705,photo_29_2024-12-18_02-22-06.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+3053,photo_12_2024-12-18_02-27-08.jpg,3,3,no stopping,no stopping,opened,True
+658,photo_74_2024-12-18_02-17-32.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2469,photo_18_2024-12-05_22-23-10.jpg,1,1,give way,give way,closed,True
+214,photo_27_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1749,photo_5_2024-12-18_02-27-47.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+408,photo_47_2024-12-18_02-36-53.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+784,photo_88_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+943,IMG_20241029_173614.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4958,photo_45_2024-12-05_22-23-50.jpg,10,10,bus stop,bus stop,closed,True
+2549,photo_46_2024-12-07_12-51-07.jpg,1,0,give way,pedestrian crossing,closed,False
+4081,photo_45_2024-12-19_02-03-02.jpg,6,6,left,left,opened,True
+3738,photo_45_2024-12-18_02-22-06.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+4970,photo_5278624148517676329_y.jpg,10,10,bus stop,bus stop,closed,True
+1339,photo_43_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2980,IMG_20241017_161236.jpg,2,2,tow truck,tow truck,closed,True
+4219,photo_2_2024-12-18_02-10-22.jpg,7,7,stop line,stop line,opened,True
+2193,photo_23_2024-12-18_13-02-03.jpg,1,1,give way,give way,opened,True
+2032,photo_87_2024-12-06_22-24-22.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3559,photo_6_2024-12-19_02-00-05.jpg,4,4,parking place,parking place,opened,True
+2513,photo_34_2024-12-07_12-47-32.jpg,1,1,give way,give way,closed,True
+2063,photo_8_2024-12-07_12-49-18.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+485,photo_56_2024-12-18_02-29-08.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+320,photo_37_2024-12-18_02-28-33.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4947,photo_40_2024-12-07_12-46-04.jpg,10,10,bus stop,bus stop,closed,True
+3883,photo_51_2024-12-05_22-22-53.jpg,5,5,maximum speed limit_40,maximum speed limit_40,closed,True
+5072,photo_42_2024-12-18_02-17-59.jpg,11,11,no entry,no entry,opened,True
+2277,photo_56_2024-12-18_02-36-53.jpg,1,1,give way,give way,opened,True
+2692,photo_91_2024-12-05_22-23-25.jpg,1,1,give way,give way,closed,True
+3636,20241102_123354.jpg,4,4,parking place,parking place,closed,True
+59,photo_14_2024-12-18_02-28-33.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4833,photo_13_2024-12-09_12-46-32.jpg,10,10,bus stop,bus stop,opened,True
+1735,photo_59_2024-12-06_22-25-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+429,photo_49_2024-12-18_13-02-04.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+756,photo_84_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4547,photo_40_2024-12-09_12-46-32.jpg,8,9,right,straight,opened,False
+4521,photo_33_2024-04-25_12-43-13.jpg,8,8,right,right,opened,True
+3479,photo_45_2024-12-18_02-27-08.jpg,4,4,parking place,parking place,opened,True
+4396,photo_76_2024-12-07_12-47-32.jpg,7,7,stop line,stop line,closed,True
+4258,photo_47_2024-12-18_13-00-25.jpg,7,7,stop line,stop line,opened,True
+3185,photo_88_2024-12-18_02-25-50.jpg,3,3,no stopping,no stopping,opened,True
+1706,photo_56_2024-12-06_22-25-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4052,photo_33_2024-12-19_02-04-55.jpg,6,6,left,left,opened,True
+383,photo_42_2024-12-18_02-28-33.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1311,photo_40_2024-12-07_12-46-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2795,photo_32_2024-12-19_02-03-02.jpg,2,2,tow truck,tow truck,opened,True
+1809,photo_66_2024-12-06_22-25-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+5172,photo_77_2024-12-18_02-25-50.jpg,11,11,no entry,no entry,closed,True
+2481,photo_20_2024-12-07_12-47-32.jpg,1,1,give way,give way,closed,True
+444,photo_50_2024-12-18_13-03-52.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3689,photo_19_2024-10-29_09-53-08.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+1870,photo_72_2024-10-29_09-42-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4888,photo_10_2024-10-29_09-54-21.jpg,10,10,bus stop,bus stop,closed,True
+3493,photo_50_2024-12-18_02-17-32.jpg,4,4,parking place,parking place,opened,True
+4030,photo_23_2024-04-25_12-20-30_4.jpg,6,6,left,left,opened,True
+3324,photo_79_2024-12-07_12-46-04.jpg,3,3,no stopping,no stopping,closed,True
+1674,photo_52_2024-12-07_12-46-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+5009,photo_90_2024-12-07_12-51-07.jpg,10,10,bus stop,bus stop,closed,True
+4752,photo_4_2024-04-25_12-20-30_4.jpg,9,9,straight,straight,opened,True
+23,photo_10_2024-12-19_00-11-08.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+860,photo_96_2024-12-18_13-05-57.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2963,20241102_113612.jpg,2,2,tow truck,tow truck,closed,True
+2949,photo_90_2024-12-19_02-03-02.jpg,2,2,tow truck,tow truck,opened,True
+420,photo_48_2024-12-18_13-02-04.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4867,photo_9_2024-12-18_12-58-24.jpg,10,10,bus stop,bus stop,opened,True
+4733,photo_3_2024-04-25_12-41-12_s.jpg,9,9,straight,straight,opened,True
+3319,photo_76_2024-12-07_12-46-04.jpg,3,3,no stopping,no stopping,closed,True
+1592,photo_5278624148517676679_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+385,photo_42_2024-12-18_13-03-52.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+942,IMG_20241029_173606.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2959,photo_99_2024-12-18_02-27-08.jpg,2,2,tow truck,tow truck,opened,True
+1274,photo_37_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+114,photo_19_2024-12-09_12-46-01.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+815,photo_91_2024-12-19_01-58-39.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3145,photo_6_2024-12-18_02-19-40.jpg,3,3,no stopping,no stopping,opened,True
+1865,photo_71_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4803,photo_85_2024-04-25_12-41-13.jpg,9,9,straight,straight,opened,True
+2497,photo_28_2024-12-07_12-46-04.jpg,1,1,give way,give way,closed,True
+5022,photo_14_2024-12-18_13-02-03.jpg,11,11,no entry,no entry,opened,True
+2988,IMG_20241017_161901.jpg,2,2,tow truck,tow truck,closed,True
+987,IMG_20241029_175801.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1178,photo_28_2024-12-06_22-23-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1392,photo_49_2024-12-05_22-22-53.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1291,photo_39_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3637,20241102_123550.jpg,4,0,parking place,pedestrian crossing,closed,False
+4482,photo_21_2024-04-25_12-43-13.jpg,8,9,right,straight,opened,False
+4213,photo_28_2024-12-18_13-01-24.jpg,7,7,stop line,stop line,opened,True
+1253,photo_35_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2557,photo_4_2024-12-06_22-24-22.jpg,1,1,give way,give way,closed,True
+4596,photo_7_2024-04-25_12-20-30_6.jpg,8,8,right,right,opened,True
+3672,photo_11_2024-12-19_02-03-02.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+4554,photo_44_2024-12-19_02-03-02.jpg,8,8,right,right,opened,True
+1565,photo_5278624148517676616_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+5018,photo_12_2024-12-18_02-17-59.jpg,11,11,no entry,no entry,opened,True
+234,photo_29_2024-12-18_02-33-06.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3969,IMG_0796.JPG,6,6,left,left,opened,True
+3836,photo_93_2024-12-18_13-01-24.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+365,photo_40_2024-12-18_02-33-06.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1660,photo_5278624148517676782_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+5143,photo_88_2024-12-09_12-46-33.jpg,11,1,no entry,give way,opened,False
+5164,photo_9_2024-12-18_02-17-59.jpg,11,11,no entry,no entry,opened,True
+1801,photo_65_2024-12-07_12-48-37.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3019,photo_78_2024-12-09_12-46-01.jpg,2,2,tow truck,tow truck,closed,True
+1981,photo_82_2024-12-06_22-24-22.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1506,photo_5278624148517676401_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4967,photo_4_2024-12-07_12-46-52.jpg,10,10,bus stop,bus stop,closed,True
+4955,photo_44_2024-12-07_12-46-04.jpg,10,10,bus stop,bus stop,closed,True
+935,IMG_20241017_180406.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3571,photo_73_2024-12-19_02-00-05.jpg,4,4,parking place,parking place,opened,True
+164,photo_22_2024-12-18_13-03-52.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4238,photo_3_2024-12-18_02-11-31.jpg,7,7,stop line,stop line,opened,True
+5112,photo_67_2024-12-09_12-46-32.jpg,11,11,no entry,no entry,opened,True
+286,photo_34_2024-12-18_02-28-33.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3771,photo_54_2024-12-19_02-00-53.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+3575,photo_75_2024-12-19_02-00-05.jpg,4,4,parking place,parking place,opened,True
+3699,photo_26_2024-12-18_02-22-06.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+3507,photo_56_2024-12-18_02-27-47.jpg,4,4,parking place,parking place,opened,True
+156,photo_21_2024-12-18_13-04-36.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+800,photo_90_2024-12-09_12-46-01.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4858,photo_57_2024-12-18_02-25-50.jpg,10,10,bus stop,bus stop,opened,True
+2240,photo_38_2024-12-09_12-46-01.jpg,1,1,give way,give way,opened,True
+2025,photo_86_2024-12-07_12-48-37.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+688,photo_77_2024-12-18_13-05-57.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3366,photo_12_2024-12-18_02-17-32.jpg,4,4,parking place,parking place,opened,True
+2359,photo_8_2024-12-18_02-29-08.jpg,1,7,give way,stop line,opened,False
+2653,photo_70_2024-12-07_12-47-32.jpg,1,1,give way,give way,closed,True
+1355,photo_45_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+582,photo_66_2024-12-18_13-05-57.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3188,photo_8_2024-12-18_02-19-40.jpg,3,3,no stopping,no stopping,opened,True
+3624,photo_96_2024-12-19_01-59-18.jpg,4,4,parking place,parking place,opened,True
+1480,photo_5278624148517676363_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3406,photo_21_2024-12-19_01-59-18.jpg,4,4,parking place,parking place,opened,True
+1831,photo_68_2024-12-07_12-49-18.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+350,photo_39_2024-12-19_02-04-55.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1556,photo_5278624148517676607_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4007,photo_17_2024-04-25_12-20-30.jpg,6,6,left,left,opened,True
+3197,photo_92_2024-12-18_02-19-24.jpg,3,3,no stopping,no stopping,opened,True
+2187,photo_20_2024-12-19_00-10-31.jpg,1,1,give way,give way,opened,True
+2163,photo_15_2024-12-18_13-01-24.jpg,1,1,give way,give way,opened,True
+2177,photo_19_2024-12-18_12-58-24.jpg,1,1,give way,give way,opened,True
+3960,IMG_0791.JPG,6,6,left,left,opened,True
+3566,photo_71_2024-12-19_01-59-18.jpg,4,4,parking place,parking place,opened,True
+4540,photo_3_2024-04-25_12-20-30_5.jpg,8,8,right,right,opened,True
+1671,photo_52_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3299,photo_64_2024-12-06_22-25-23.jpg,3,3,no stopping,no stopping,closed,True
+842,photo_94_2024-12-18_13-03-52.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4041,photo_28_2024-11-28_18-39-35.jpg,6,6,left,left,opened,True
+1977,photo_81_2024-12-07_12-49-18.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+917,20241102_123018.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2996,photo_34_2024-12-06_22-25-22.jpg,2,2,tow truck,tow truck,closed,True
+2664,photo_78_2024-12-06_22-24-22.jpg,1,1,give way,give way,closed,True
+3817,photo_80_2024-12-19_02-00-53.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+672,photo_75_2024-12-19_01-58-39.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3996,photo_13_2024-04-25_12-20-30.jpg,6,6,left,left,opened,True
+1725,photo_58_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3421,photo_25_2024-12-18_02-17-32.jpg,4,4,parking place,parking place,opened,True
+2118,photo_97_2024-12-06_22-25-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1970,photo_81_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3789,photo_65_2024-12-19_00-10-31.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+4412,IMG_0773.JPG,8,8,right,right,opened,True
+5033,photo_1_2024-12-18_02-33-06.jpg,11,11,no entry,no entry,opened,True
+3773,photo_55_2024-12-19_01-58-39.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+911,20241102_121205.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1919,photo_76_2024-12-07_12-49-18.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2017,photo_86_2024-10-29_09-53-08.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+948,IMG_20241029_174023.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2881,photo_61_2024-12-18_12-58-24.jpg,2,2,tow truck,tow truck,opened,True
+628,photo_70_2024-12-18_13-05-57.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+5125,photo_75_2024-12-18_02-25-50.jpg,11,11,no entry,no entry,opened,True
+2972,20241102_121539.jpg,2,2,tow truck,tow truck,closed,True
+3972,IMG_0824_9.JPG,6,6,left,left,opened,True
+4649,IMG_0791.JPG,9,9,straight,straight,opened,True
+4673,photo_11_2024-04-25_12-41-12_1.jpg,9,8,straight,right,opened,False
+3796,photo_6_2024-12-19_02-03-02.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+2849,photo_50_2024-12-09_12-46-01.jpg,2,2,tow truck,tow truck,opened,True
+679,photo_76_2024-12-18_13-05-23.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3085,photo_29_2024-12-18_13-03-52.jpg,3,3,no stopping,no stopping,opened,True
+2047,photo_89_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3505,photo_53_2024-12-18_13-06-32.jpg,4,4,parking place,parking place,opened,True
+1333,photo_42_2024-12-07_12-49-18.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1720,photo_57_2024-12-07_12-49-18.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2913,photo_74_2024-12-18_02-36-53.jpg,2,2,tow truck,tow truck,opened,True
+3633,photo_9_2024-12-18_02-17-32.jpg,4,4,parking place,parking place,opened,True
+5153,photo_93_2024-12-18_02-28-33.jpg,11,11,no entry,no entry,opened,True
+126,photo_1_2024-12-09_12-49-47_1.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2806,photo_35_2024-12-19_02-00-53.jpg,2,2,tow truck,tow truck,opened,True
+235,photo_29_2024-12-18_13-05-57.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+77,photo_15_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3372,photo_14_2024-12-19_01-56-44.jpg,4,4,parking place,parking place,opened,True
+4465,photo_17_2024-04-25_12-20-30_0.jpg,8,8,right,right,opened,True
+3913,photo_70_2024-12-05_22-22-53.jpg,5,5,maximum speed limit_40,maximum speed limit_40,closed,True
+736,photo_82_2024-12-18_02-36-53.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2188,photo_21_2024-12-18_13-07-03.jpg,1,1,give way,give way,opened,True
+284,photo_34_2024-12-18_02-17-32.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2545,photo_46_2024-12-05_22-23-10.jpg,1,1,give way,give way,closed,True
+1442,photo_5278624148517676314_y (1).jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2851,photo_51_2024-12-19_02-00-05.jpg,2,2,tow truck,tow truck,opened,True
+2588,photo_5278624148517676658_y.jpg,1,1,give way,give way,closed,True
+678,photo_76_2024-12-18_13-03-52.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1451,photo_5278624148517676321_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+427,photo_49_2024-12-18_02-28-33.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3821,photo_85_2024-12-19_00-10-31.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+2352,photo_88_2024-12-18_02-27-08.jpg,1,1,give way,give way,opened,True
+3609,photo_8_2024-12-19_01-56-44.jpg,4,4,parking place,parking place,opened,True
+993,IMG_20241029_180517.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+25,photo_11_2024-12-18_02-37-13.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1536,photo_5278624148517676488_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1928,photo_77_2024-12-09_12-46-01.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2049,photo_89_2024-12-06_22-24-22.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+48,photo_13_2024-12-09_12-50-33.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1580,photo_5278624148517676644_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1088,photo_19_2024-12-06_22-23-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2514,photo_34_2024-12-09_12-46-32.jpg,1,1,give way,give way,closed,True
+2424,IMG_20241029_175150.jpg,1,1,give way,give way,closed,True
+2466,photo_17_2024-12-05_22-23-10.jpg,1,1,give way,give way,closed,True
+2667,photo_79_2024-12-06_22-25-23.jpg,1,1,give way,give way,closed,True
+3131,photo_63_2024-12-18_12-58-24.jpg,3,3,no stopping,no stopping,opened,True
+2537,photo_42_2024-12-07_12-46-04.jpg,1,1,give way,give way,closed,True
+831,photo_93_2024-12-18_02-25-50.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1929,photo_77_2024-12-09_12-46-32.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2749,photo_21_2024-12-18_02-27-47.jpg,2,2,tow truck,tow truck,opened,True
+1696,photo_55_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2375,photo_96_2024-12-18_13-04-36.jpg,1,1,give way,give way,opened,True
+3182,photo_87_2024-12-09_12-46-33_1.jpg,3,3,no stopping,no stopping,opened,True
+2838,photo_45_2024-12-19_02-00-53.jpg,2,2,tow truck,tow truck,opened,True
+311,photo_36_2024-12-18_02-33-06.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2708,photo_98_2024-12-07_12-48-02.jpg,1,1,give way,give way,closed,True
+2077,photo_91_2024-12-07_12-46-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4115,photo_78_2024-12-19_02-00-05.jpg,6,6,left,left,opened,True
+1033,photo_12_2024-12-07_12-51-07.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+407,photo_46_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2593,photo_5278624148517676665_y.jpg,1,1,give way,give way,closed,True
+2905,photo_70_2024-12-18_13-02-04.jpg,2,2,tow truck,tow truck,opened,True
+934,IMG_20241017_180359.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2467,photo_17_2024-12-07_12-46-04.jpg,1,1,give way,give way,closed,True
+3165,photo_78_2024-12-18_02-27-08.jpg,3,3,no stopping,no stopping,opened,True
+517,photo_5_2024-12-09_12-50-33.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+475,photo_54_2024-12-19_01-58-39.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+5050,photo_2_2024-12-18_02-17-59.jpg,11,11,no entry,no entry,opened,True
+2839,photo_46_2024-12-19_02-00-53.jpg,2,2,tow truck,tow truck,opened,True
+3564,photo_71_2024-12-18_13-01-24.jpg,4,4,parking place,parking place,opened,True
+4765,photo_4_2024-05-17_15-34-29_7.jpg,9,9,straight,straight,opened,True
+1984,photo_82_2024-12-07_12-48-02.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3574,photo_75_2024-12-19_01-59-18.jpg,4,4,parking place,parking place,opened,True
+1146,photo_25_2024-10-29_09-42-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3154,photo_73_2024-12-09_12-45-24.jpg,3,3,no stopping,no stopping,opened,True
+210,photo_27_2024-12-18_13-02-03.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2156,photo_14_2024-12-18_13-01-24.jpg,1,1,give way,give way,opened,True
+574,photo_66_2024-12-09_12-45-24.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4058,photo_35_2024-04-25_12-41-12_7.jpg,6,6,left,left,opened,True
+976,IMG_20241029_174901.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+605,photo_69_2024-12-18_02-17-32.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+796,photo_8_2024-12-18_13-05-23.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+772,photo_87_2024-12-18_13-03-52.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+376,photo_41_2024-12-09_12-49-48.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1373,photo_47_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+822,photo_92_2024-12-18_13-00-25.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4304,photo_72_2024-12-18_02-28-33.jpg,7,2,stop line,tow truck,opened,False
+3003,photo_4_2024-12-07_12-46-04.jpg,2,2,tow truck,tow truck,closed,True
+1346,photo_44_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2648,photo_69_2024-12-06_22-24-57.jpg,1,1,give way,give way,closed,True
+2331,photo_7_2024-12-18_13-03-52.jpg,1,1,give way,give way,opened,True
+3973,IMG_0825.JPG,6,6,left,left,opened,True
+1347,photo_44_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2033,photo_87_2024-12-06_22-24-57.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3463,photo_3_2024-12-19_01-56-44.jpg,4,4,parking place,parking place,opened,True
+4333,20241102_115413.jpg,7,7,stop line,stop line,closed,True
+1949,photo_7_2024-10-29_09-53-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3875,photo_2_2024-12-05_22-23-25.jpg,5,5,maximum speed limit_40,maximum speed limit_40,closed,True
+2234,photo_35_2024-12-18_13-01-24.jpg,1,1,give way,give way,opened,True
+4806,photo_8_2024-04-25_12-41-12_5.jpg,9,9,straight,straight,opened,True
+3924,photo_99_2024-12-07_12-47-32.jpg,5,5,maximum speed limit_40,maximum speed limit_40,closed,True
+499,photo_58_2024-12-18_02-17-32.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4343,photo_21_2024-12-07_12-49-18.jpg,7,9,stop line,straight,closed,False
+2536,photo_42_2024-12-06_22-24-22.jpg,1,1,give way,give way,closed,True
+2825,photo_41_2024-12-18_13-04-36.jpg,2,2,tow truck,tow truck,opened,True
+4824,photo_53_2024-12-06_22-25-52.jpg,9,9,straight,straight,closed,True
+947,IMG_20241029_174019.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4743,photo_43_2024-04-25_12-43-13.jpg,9,9,straight,straight,opened,True
+1453,photo_5278624148517676323_y (1).jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+435,photo_4_2024-12-18_12-58-24.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4423,IMG_0800_7.JPG,8,8,right,right,opened,True
+4942,photo_38_2024-12-09_12-45-24.jpg,10,0,bus stop,pedestrian crossing,closed,False
+2511,photo_33_2024-12-07_12-46-52.jpg,1,1,give way,give way,closed,True
+196,photo_25_2024-12-19_02-04-55.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4377,photo_5278624148517676717_y.jpg,7,7,stop line,stop line,closed,True
+184,photo_24_2024-12-18_13-07-03.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2640,photo_65_2024-10-29_09-53-08.jpg,1,1,give way,give way,closed,True
+3728,photo_41_2024-12-18_02-22-06.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+4469,photo_18_2024-04-25_12-43-13.jpg,8,8,right,right,opened,True
+2437,IMG_20241029_181806.jpg,1,1,give way,give way,closed,True
+5086,photo_4_2024-12-18_02-28-33.jpg,11,11,no entry,no entry,opened,True
+4489,photo_22_2024-04-25_12-41-12.jpg,8,8,right,right,opened,True
+3430,photo_28_2024-12-18_02-17-32.jpg,4,4,parking place,parking place,opened,True
+3350,photo_94_2024-12-06_22-24-57.jpg,3,3,no stopping,no stopping,closed,True
+3587,photo_80_2024-12-19_01-59-18.jpg,4,4,parking place,parking place,opened,True
+3922,photo_98_2024-12-07_12-47-32.jpg,5,5,maximum speed limit_40,maximum speed limit_40,closed,True
+692,photo_78_2024-12-18_02-28-33.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4863,photo_80_2024-12-18_02-25-50.jpg,10,10,bus stop,bus stop,opened,True
+4624,photo_99_2024-12-19_02-00-05.jpg,8,8,right,right,opened,True
+4280,photo_54_2024-12-18_13-06-32.jpg,7,7,stop line,stop line,opened,True
+4312,photo_7_2024-12-18_12-58-24.jpg,7,7,stop line,stop line,opened,True
+4669,photo_10_2024-05-17_15-34-29.jpg,9,9,straight,straight,opened,True
+3931,IMG_0761_6.JPG,6,6,left,left,opened,True
+1348,photo_44_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+646,photo_72_2024-12-18_13-00-25.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+888,photo_9_2024-12-18_13-02-03.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1897,photo_74_2024-12-07_12-46-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2700,photo_95_2024-10-29_09-53-51.jpg,1,1,give way,give way,closed,True
+357,photo_3_2024-12-18_13-01-24.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3149,photo_70_2024-12-18_02-28-33.jpg,3,3,no stopping,no stopping,opened,True
+2515,photo_35_2024-12-07_12-46-52.jpg,1,1,give way,give way,closed,True
+4977,photo_62_2024-12-07_12-46-52.jpg,10,10,bus stop,bus stop,closed,True
+1534,photo_5278624148517676474_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4166,photo_80_2024-12-06_22-25-52.jpg,6,6,left,left,closed,True
+5005,photo_84_2024-12-07_12-51-07.jpg,10,10,bus stop,bus stop,closed,True
+5027,photo_17_2024-12-18_02-17-59.jpg,11,11,no entry,no entry,opened,True
+4270,photo_51_2024-12-18_12-58-24.jpg,7,7,stop line,stop line,opened,True
+2551,photo_48_2024-10-29_09-53-08.jpg,1,1,give way,give way,closed,True
+1906,photo_75_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2218,photo_30_2024-12-18_13-01-24.jpg,1,1,give way,give way,opened,True
+3308,photo_6_2024-12-06_22-25-22.jpg,3,3,no stopping,no stopping,closed,True
+118,photo_19_2024-12-18_02-33-06.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+360,photo_3_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+387,photo_42_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2160,photo_15_2024-12-18_02-25-50.jpg,1,4,give way,parking place,opened,False
+2703,photo_95_2024-12-07_12-48-37.jpg,1,1,give way,give way,closed,True
+1082,photo_18_2024-12-09_12-46-01.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3228,20241102_120212_1.jpg,3,3,no stopping,no stopping,closed,True
+4617,photo_91_2024-12-06_22-25-52.jpg,8,8,right,right,opened,True
+4271,photo_51_2024-12-18_13-04-36.jpg,7,7,stop line,stop line,opened,True
+1740,photo_5_2024-10-29_09-42-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+329,photo_38_2024-12-09_12-49-48.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4186,photo_15_2024-12-18_02-11-31.jpg,7,7,stop line,stop line,opened,True
+1529,photo_5278624148517676462_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1022,photo_11_2024-10-29_09-53-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+325,photo_37_2024-12-18_13-03-52.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1481,photo_5278624148517676364_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2717,photo_12_2024-12-18_02-25-50.jpg,2,2,tow truck,tow truck,opened,True
+1935,photo_78_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+690,photo_77_2024-12-19_01-58-39.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+258,photo_31_2024-12-09_12-46-01.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2773,photo_27_2024-12-19_02-00-05.jpg,2,2,tow truck,tow truck,opened,True
+204,photo_27_2024-12-09_12-46-32.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2516,photo_36_2024-12-05_22-22-53.jpg,1,1,give way,give way,closed,True
+3948,IMG_0776.JPG,6,6,left,left,opened,True
+3792,photo_67_2024-12-19_02-03-02.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+984,IMG_20241029_175749.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3943,IMG_0771.JPG,6,6,left,left,opened,True
+2365,photo_91_2024-12-19_02-00-53.jpg,1,1,give way,give way,opened,True
+3292,photo_5_2024-12-06_22-23-51.jpg,3,3,no stopping,no stopping,closed,True
+4220,photo_2_2024-12-18_13-07-03.jpg,7,0,stop line,pedestrian crossing,opened,False
+3473,photo_43_2024-12-18_02-25-50.jpg,4,4,parking place,parking place,opened,True
+1643,photo_5278624148517676764_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2219,photo_30_2024-12-19_02-00-53.jpg,1,1,give way,give way,opened,True
+3460,photo_39_2024-12-18_13-01-24.jpg,4,4,parking place,parking place,opened,True
+2668,photo_80_2024-12-07_12-47-32.jpg,1,1,give way,give way,closed,True
+1284,photo_38_2024-12-06_22-23-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4865,photo_94_2024-12-18_02-33-06.jpg,10,10,bus stop,bus stop,opened,True
+4870,20241102_115105.jpg,10,10,bus stop,bus stop,closed,True
+4144,photo_12_2024-11-28_18-31-49.jpg,6,6,left,left,closed,True
+3782,photo_5_2024-12-19_02-03-02.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+4991,photo_74_2024-12-09_12-45-24.jpg,10,10,bus stop,bus stop,closed,True
+3819,photo_82_2024-12-19_00-10-31.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+1298,photo_3_2024-10-29_09-54-37.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3795,photo_6_2024-12-18_02-13-44.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+1549,photo_5278624148517676567_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3845,photo_97_2024-12-19_00-10-31.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+2889,photo_64_2024-12-19_02-03-02.jpg,2,2,tow truck,tow truck,opened,True
+2501,photo_2_2024-12-07_12-51-07.jpg,1,1,give way,give way,closed,True
+2372,photo_95_2024-12-18_13-04-36.jpg,1,1,give way,give way,opened,True
+2809,photo_36_2024-12-19_02-00-05.jpg,2,2,tow truck,tow truck,opened,True
+2841,photo_47_2024-12-18_02-33-06.jpg,2,2,tow truck,tow truck,opened,True
+2605,photo_5278624148517676714_y.jpg,1,1,give way,give way,closed,True
+3398,photo_20_2024-12-18_02-17-32.jpg,4,4,parking place,parking place,opened,True
+732,photo_81_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+661,photo_74_2024-12-18_13-05-57.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+41,photo_12_2024-12-18_13-05-23.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3113,photo_48_2024-12-09_12-49-48_1.jpg,3,3,no stopping,no stopping,opened,True
+3500,photo_52_2024-12-18_13-05-57.jpg,4,4,parking place,parking place,opened,True
+3551,photo_68_2024-12-19_01-59-18.jpg,4,4,parking place,parking place,opened,True
+2894,photo_66_2024-12-18_02-33-06.jpg,2,2,tow truck,tow truck,opened,True
+4980,photo_66_2024-12-07_12-46-52.jpg,10,0,bus stop,pedestrian crossing,closed,False
+2807,photo_35_2024-12-19_02-03-02.jpg,2,2,tow truck,tow truck,opened,True
+3341,photo_89_2024-12-18_02-27-47.jpg,3,3,no stopping,no stopping,closed,True
+4005,photo_15_2024-04-25_12-41-12.jpg,6,6,left,left,opened,True
+2364,photo_91_2024-12-18_02-27-08.jpg,1,1,give way,give way,opened,True
+3080,photo_25_2024-12-18_13-00-25.jpg,3,3,no stopping,no stopping,opened,True
+5137,photo_84_2024-12-18_13-01-24.jpg,11,11,no entry,no entry,opened,True
+3335,photo_88_2024-12-06_22-24-57.jpg,3,3,no stopping,no stopping,closed,True
+3325,photo_7_2024-12-07_12-46-04.jpg,3,3,no stopping,no stopping,closed,True
+3927,20241102_115413_99.jpg,6,6,left,left,opened,True
+4021,photo_20_2024-11-28_18-39-35.jpg,6,6,left,left,opened,True
+4317,photo_88_2024-12-09_12-49-48.jpg,7,7,stop line,stop line,opened,True
+566,photo_65_2024-12-18_02-25-50.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3474,photo_43_2024-12-18_13-06-32.jpg,4,4,parking place,parking place,opened,True
+4313,photo_7_2024-12-18_13-06-32.jpg,7,7,stop line,stop line,opened,True
+4010,photo_18_2024-04-25_12-41-12.jpg,6,6,left,left,opened,True
+1553,photo_5278624148517676595_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+327,photo_37_2024-12-19_00-11-08.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+730,photo_81_2024-12-18_13-05-57.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4981,photo_68_2024-12-09_12-45-24.jpg,10,10,bus stop,bus stop,closed,True
+1381,photo_48_2024-10-29_09-53-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3269,photo_31_2024-12-06_22-25-22.jpg,3,3,no stopping,no stopping,closed,True
+3650,photo_5278624148517676564_y.jpg,4,4,parking place,parking place,closed,True
+2387,20241102_115704.jpg,1,1,give way,give way,closed,True
+417,photo_48_2024-12-18_02-29-08.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3282,photo_49_2024-12-18_02-27-08.jpg,3,3,no stopping,no stopping,closed,True
+2532,photo_40_2024-12-06_22-24-22.jpg,1,1,give way,give way,closed,True
+4048,photo_31_2024-04-25_12-41-12.jpg,6,6,left,left,opened,True
+87,photo_16_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+451,photo_51_2024-12-18_02-36-53.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1618,photo_5278624148517676736_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2380,photo_98_2024-12-19_02-00-53.jpg,1,1,give way,give way,opened,True
+3748,photo_48_2024-12-19_02-03-02.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+294,photo_35_2024-12-09_12-46-01.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4632,photo_88_2024-12-05_22-22-53.jpg,8,8,right,right,closed,True
+3734,photo_43_2024-12-19_00-10-31.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+454,photo_51_2024-12-19_02-04-55.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2068,photo_90_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1542,photo_5278624148517676512_y.jpg,0,7,pedestrian crossing,stop line,closed,False
+2814,photo_38_2024-12-18_13-04-36.jpg,2,2,tow truck,tow truck,opened,True
+3363,photo_10_2024-12-19_02-00-05.jpg,4,4,parking place,parking place,opened,True
+2752,photo_21_2024-12-19_02-00-53.jpg,2,2,tow truck,tow truck,opened,True
+1960,photo_80_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+84,photo_16_2024-12-18_13-05-23.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4564,photo_53_2024-12-19_02-04-55.jpg,8,8,right,right,opened,True
+844,photo_94_2024-12-19_01-58-39.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+494,photo_57_2024-12-18_13-02-04.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1413,photo_50_2024-10-29_09-42-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3411,photo_23_2024-12-18_02-17-32.jpg,4,4,parking place,parking place,opened,True
+3217,20241102_114250.jpg,3,3,no stopping,no stopping,closed,True
+20,photo_10_2024-12-18_13-03-52.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3502,photo_53_2024-12-09_12-46-01.jpg,4,0,parking place,pedestrian crossing,opened,False
+1521,photo_5278624148517676443_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3861,photo_13_2024-12-05_22-23-25.jpg,5,5,maximum speed limit_40,maximum speed limit_40,closed,True
+1297,photo_3_2024-10-29_09-53-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1891,photo_74_2024-10-29_09-53-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4470,photo_18_2024-04-25_12-43-13_4.jpg,8,8,right,right,opened,True
+1653,photo_5278624148517676774_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2896,photo_66_2024-12-19_02-03-02.jpg,2,2,tow truck,tow truck,opened,True
+4151,photo_1_2024-04-25_12-43-13.jpg,6,6,left,left,closed,True
+1523,photo_5278624148517676446_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+5142,photo_87_2024-12-18_02-17-59.jpg,11,11,no entry,no entry,opened,True
+3688,photo_17_2024-12-18_02-28-33.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+4571,photo_59_2024-04-25_12-41-12.jpg,8,8,right,right,opened,True
+4576,photo_65_2024-04-25_12-41-12.jpg,8,8,right,right,opened,True
+4525,photo_35_2024-04-25_12-20-30.jpg,8,8,right,right,opened,True
+1558,photo_5278624148517676609_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3224,20241102_115820_1.jpg,3,3,no stopping,no stopping,closed,True
+2040,photo_88_2024-12-06_22-24-22.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3297,photo_62_2024-12-09_12-45-24_1.jpg,3,0,no stopping,pedestrian crossing,closed,False
+1234,photo_33_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4020,photo_20_2024-04-25_12-43-13_9.jpg,6,6,left,left,opened,True
+2070,photo_90_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+99,photo_17_2024-12-18_13-04-36.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1555,photo_5278624148517676606_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1914,photo_76_2024-10-29_09-53-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3108,photo_45_2024-12-09_12-49-48_1.jpg,3,3,no stopping,no stopping,opened,True
+1038,photo_13_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1196,photo_2_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+195,photo_25_2024-12-19_00-11-08.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+125,photo_19_2024-12-19_00-11-08.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2131,photo_9_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+5138,photo_85_2024-12-18_02-17-59.jpg,11,11,no entry,no entry,opened,True
+4762,photo_4_2024-05-17_15-34-29.jpg,9,9,straight,straight,opened,True
+2723,photo_14_2024-12-19_01-58-39.jpg,2,2,tow truck,tow truck,opened,True
+3270,photo_31_2024-12-07_12-47-32.jpg,3,3,no stopping,no stopping,closed,True
+1680,photo_53_2024-10-29_09-53-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4687,photo_14_2024-04-25_12-41-12_4.jpg,9,9,straight,straight,opened,True
+3452,photo_35_2024-12-19_02-00-05.jpg,4,4,parking place,parking place,opened,True
+4070,photo_3_2024-04-25_12-43-13_l_6.jpg,6,6,left,left,opened,True
+19,photo_10_2024-12-18_13-02-03.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2877,photo_60_2024-12-18_02-17-59.jpg,2,2,tow truck,tow truck,opened,True
+1204,photo_2_2024-12-18_02-36-53.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1317,photo_41_2024-10-29_09-53-08.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1594,photo_5278624148517676686_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4654,IMG_0798.JPG,9,9,straight,straight,opened,True
+111,photo_18_2024-12-18_13-07-03.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1,IMG_20241029_173841.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+377,photo_41_2024-12-18_02-17-32.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4931,photo_34_2024-12-07_12-46-04.jpg,10,10,bus stop,bus stop,closed,True
+4464,photo_17_2024-04-25_12-20-30.jpg,8,8,right,right,opened,True
+2204,photo_26_2024-12-18_02-33-06.jpg,1,1,give way,give way,opened,True
+2885,photo_64_2024-12-09_12-46-32.jpg,2,7,tow truck,stop line,opened,False
+1673,photo_52_2024-12-06_22-25-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4340,IMG_20241029_181341.jpg,7,7,stop line,stop line,closed,True
+489,photo_56_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4299,photo_69_2024-12-18_13-01-24.jpg,7,7,stop line,stop line,opened,True
+5053,photo_31_2024-12-18_02-25-50.jpg,11,11,no entry,no entry,opened,True
+3579,photo_77_2024-12-18_02-17-32.jpg,4,4,parking place,parking place,opened,True
+3227,20241102_120142.jpg,3,3,no stopping,no stopping,closed,True
+434,photo_4_2024-12-18_02-37-13.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4968,photo_50_2024-12-07_12-47-32.jpg,10,10,bus stop,bus stop,closed,True
+2302,photo_69_2024-12-19_02-00-53.jpg,1,1,give way,give way,opened,True
+2673,photo_82_2024-12-05_22-23-25.jpg,1,1,give way,give way,closed,True
+13,photo_10_2024-12-18_02-25-50.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+399,photo_45_2024-12-18_02-17-32.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4379,photo_5278624148517676785_y.jpg,7,1,stop line,give way,closed,False
+4004,photo_15_2024-04-25_12-20-30_9.jpg,6,6,left,left,opened,True
+972,IMG_20241029_174707_1.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1181,photo_28_2024-12-07_12-49-18.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4172,photo_90_2024-12-06_22-24-57.jpg,6,9,left,straight,closed,False
+4914,photo_26_2024-12-07_12-46-04.jpg,10,10,bus stop,bus stop,closed,True
+3785,photo_62_2024-12-19_02-00-53.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+2148,photo_13_2024-12-18_13-01-24.jpg,1,1,give way,give way,opened,True
+1596,photo_5278624148517676688_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+127,photo_1_2024-12-18_02-27-08.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4909,photo_22_2024-12-07_12-46-52.jpg,10,10,bus stop,bus stop,closed,True
+344,photo_39_2024-12-18_13-02-04.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4419,IMG_0781.JPG,8,8,right,right,opened,True
+4298,photo_69_2024-12-18_02-28-33.jpg,7,7,stop line,stop line,opened,True
+3313,photo_73_2024-12-07_12-47-32.jpg,3,3,no stopping,no stopping,closed,True
+4786,photo_66_2024-11-28_18-39-35.jpg,9,9,straight,straight,opened,True
+674,photo_76_2024-12-18_02-17-32.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+778,photo_88_2024-12-18_02-33-06.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+542,photo_62_2024-12-18_02-27-47.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+193,photo_25_2024-12-18_13-05-23.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3433,photo_29_2024-12-18_02-17-32.jpg,4,4,parking place,parking place,opened,True
+1423,photo_50_2024-12-07_12-48-37.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1401,photo_4_2024-10-29_09-53-08.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1676,photo_52_2024-12-07_12-48-37.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4646,IMG_0789.JPG,9,9,straight,straight,opened,True
+4291,photo_61_2024-12-09_12-45-24.jpg,7,7,stop line,stop line,opened,True
+1020,photo_10_2024-12-18_02-36-53.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4413,IMG_0774.JPG,8,8,right,right,opened,True
+2106,photo_95_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3102,photo_42_2024-12-18_02-27-47.jpg,3,3,no stopping,no stopping,opened,True
+5133,photo_81_2024-12-18_13-00-25.jpg,11,11,no entry,no entry,opened,True
+4920,photo_29_2024-12-07_12-47-32.jpg,10,10,bus stop,bus stop,closed,True
+2677,photo_84_2024-12-05_22-23-25.jpg,1,1,give way,give way,closed,True
+1072,photo_17_2024-12-06_22-25-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1203,photo_2_2024-12-18_02-27-08.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+194,photo_25_2024-12-18_13-07-03.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3078,photo_23_2024-12-19_01-58-39.jpg,3,3,no stopping,no stopping,opened,True
+4764,photo_4_2024-05-17_15-34-29_6.jpg,9,9,straight,straight,opened,True
+4421,IMG_0783.JPG,8,8,right,right,opened,True
+2005,photo_85_2024-10-29_09-42-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3842,photo_95_2024-12-19_02-03-02.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+104,photo_18_2024-12-09_12-50-33.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+576,photo_66_2024-12-18_02-17-32.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1856,photo_70_2024-12-05_22-23-25.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4772,photo_56_2024-04-25_12-41-12.jpg,9,9,straight,straight,opened,True
+4235,photo_38_2024-12-18_13-06-32.jpg,7,7,stop line,stop line,opened,True
+3874,photo_28_2024-12-05_22-23-25.jpg,5,5,maximum speed limit_40,maximum speed limit_40,closed,True
+438,photo_4_2024-12-18_13-04-36.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4191,photo_1_2024-12-18_02-10-22.jpg,7,7,stop line,stop line,opened,True
+163,photo_22_2024-12-18_13-00-25.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+869,photo_97_2024-12-18_13-06-32.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1973,photo_81_2024-12-06_22-24-57.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2583,photo_5278624148517676635_y.jpg,1,1,give way,give way,closed,True
+3249,photo_15_2024-12-06_22-25-22.jpg,3,3,no stopping,no stopping,closed,True
+1753,photo_60_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4104,photo_5_2024-12-18_02-27-08.jpg,6,8,left,right,opened,False
+1693,photo_55_2024-10-29_09-42-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3289,photo_58_2024-12-06_22-25-52_1.jpg,3,3,no stopping,no stopping,closed,True
+1221,photo_31_2024-12-07_12-48-36.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2016,photo_86_2024-10-29_09-42-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3036,photo_92_2024-12-07_12-46-52.jpg,2,2,tow truck,tow truck,closed,True
+514,photo_59_2024-12-18_13-05-23.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+747,photo_83_2024-12-18_13-00-25.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3194,photo_91_2024-12-18_02-25-50.jpg,3,3,no stopping,no stopping,opened,True
+563,photo_64_2024-12-19_01-58-39.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+913,20241102_121522.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2211,photo_28_2024-12-18_02-33-06.jpg,1,1,give way,give way,opened,True
+3122,photo_57_2024-12-09_12-49-48_1.jpg,3,3,no stopping,no stopping,opened,True
+1052,photo_15_2024-10-29_09-53-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3847,photo_98_2024-12-19_00-10-31.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+3917,photo_79_2024-12-05_22-22-53.jpg,5,5,maximum speed limit_40,maximum speed limit_40,closed,True
+1374,photo_47_2024-12-05_22-23-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2770,photo_26_2024-12-19_02-00-05.jpg,2,2,tow truck,tow truck,opened,True
+2324,photo_78_2024-12-18_13-04-36.jpg,1,1,give way,give way,opened,True
+2249,photo_43_2024-12-18_02-36-53.jpg,1,1,give way,give way,opened,True
+1681,photo_53_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1136,photo_23_2024-12-09_12-50-33.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2509,photo_32_2024-12-07_12-48-36.jpg,1,1,give way,give way,closed,True
+4655,IMG_0799.JPG,9,9,straight,straight,opened,True
+1242,photo_34_2024-10-29_09-53-08.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4519,photo_32_2024-04-25_12-43-13.jpg,8,8,right,right,opened,True
+1832,photo_68_2024-12-07_12-51-07.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4779,photo_5_2024-04-25_12-41-12_7.jpg,9,9,straight,straight,opened,True
+2759,photo_23_2024-12-19_02-03-02.jpg,2,2,tow truck,tow truck,opened,True
+3620,photo_94_2024-12-19_02-00-05.jpg,4,4,parking place,parking place,opened,True
+1195,photo_2_2024-10-29_09-54-37.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2950,photo_91_2024-12-09_12-49-48.jpg,2,2,tow truck,tow truck,opened,True
+2697,photo_94_2024-12-05_22-23-25.jpg,1,1,give way,give way,closed,True
+4727,photo_33_2024-04-25_12-20-30.jpg,9,9,straight,straight,opened,True
+3100,photo_3_2024-12-18_13-02-03.jpg,3,3,no stopping,no stopping,opened,True
+2683,photo_86_2024-12-07_12-47-32.jpg,1,1,give way,give way,closed,True
+4367,photo_5278624148517676353_y.jpg,7,7,stop line,stop line,closed,True
+1386,photo_48_2024-12-07_12-48-02.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1630,photo_5278624148517676748_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4457,photo_12_2024-11-28_18-39-35.jpg,8,8,right,right,opened,True
+431,photo_49_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+664,photo_74_2024-12-19_02-04-55.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4240,photo_3_2024-12-18_13-06-32.jpg,7,7,stop line,stop line,opened,True
+2248,photo_42_2024-12-18_02-36-53.jpg,1,1,give way,give way,opened,True
+476,photo_55_2024-12-09_12-46-01.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4101,photo_58_2024-04-25_12-41-12_0.jpg,6,6,left,left,opened,True
+3000,photo_3_2024-12-07_12-46-04.jpg,2,2,tow truck,tow truck,closed,True
+3841,photo_94_2024-12-19_02-03-02.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+638,photo_71_2024-12-19_00-10-31.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2172,photo_18_2024-12-18_02-37-13.jpg,1,1,give way,give way,opened,True
+4766,photo_4_2024-05-17_15-34-29_8.jpg,9,9,straight,straight,opened,True
+1382,photo_48_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2123,photo_98_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4164,photo_68_2024-12-06_22-25-52.jpg,6,6,left,left,closed,True
+4535,photo_37_2024-04-25_12-41-12_6.jpg,8,8,right,right,opened,True
+4839,photo_22_2024-12-18_12-58-24.jpg,10,10,bus stop,bus stop,opened,True
+1564,photo_5278624148517676615_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1048,photo_14_2024-12-07_12-51-07.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1947,photo_7_2024-10-29_09-42-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3326,photo_80_2024-12-07_12-46-04.jpg,3,3,no stopping,no stopping,closed,True
+1155,photo_26_2024-10-29_09-53-08.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2255,photo_45_2024-12-09_12-46-32.jpg,1,1,give way,give way,opened,True
+2144,photo_12_2024-12-18_13-01-24.jpg,1,1,give way,give way,opened,True
+3893,photo_56_2024-12-05_22-22-53.jpg,5,5,maximum speed limit_40,maximum speed limit_40,closed,True
+3402,photo_21_2024-12-18_02-17-32.jpg,4,4,parking place,parking place,opened,True
+3045,photo_10_2024-12-18_02-19-40.jpg,3,3,no stopping,no stopping,opened,True
+511,photo_59_2024-12-18_02-27-47.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3641,photo_40_2024-12-05_22-23-10.jpg,4,4,parking place,parking place,closed,True
+5140,photo_86_2024-12-18_02-17-59.jpg,11,11,no entry,no entry,opened,True
+2753,photo_21_2024-12-19_02-03-02.jpg,2,2,tow truck,tow truck,opened,True
+4120,photo_82_2024-12-19_02-00-05.jpg,6,6,left,left,opened,True
+2722,photo_14_2024-12-18_13-04-36.jpg,2,2,tow truck,tow truck,opened,True
+4351,photo_33_2024-12-06_22-24-57.jpg,7,7,stop line,stop line,closed,True
+1362,photo_45_2024-12-09_12-45-24.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1354,photo_45_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2639,photo_64_2024-12-19_00-10-31.jpg,1,1,give way,give way,closed,True
+579,photo_66_2024-12-18_02-28-33.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4925,photo_31_2024-10-29_09-54-21.jpg,10,10,bus stop,bus stop,closed,True
+2637,photo_64_2024-12-07_12-46-52.jpg,1,1,give way,give way,closed,True
+4136,photo_92_2024-12-19_02-00-53.jpg,6,6,left,left,opened,True
+1245,photo_34_2024-12-05_22-23-10.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4402,photo_81_2024-12-07_12-47-32.jpg,7,7,stop line,stop line,closed,True
+5071,photo_41_2024-12-18_13-07-03.jpg,11,11,no entry,no entry,opened,True
+3864,photo_19_2024-12-05_22-23-25.jpg,5,5,maximum speed limit_40,maximum speed limit_40,closed,True
+1955,photo_7_2024-12-07_12-51-07.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+266,photo_32_2024-12-18_02-29-08.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+4223,photo_31_2024-12-18_02-10-22.jpg,7,7,stop line,stop line,opened,True
+2489,photo_24_2024-12-07_12-49-18.jpg,1,1,give way,give way,closed,True
+833,photo_93_2024-12-18_13-03-52.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+3258,photo_1_2024-12-06_22-25-22.jpg,3,3,no stopping,no stopping,closed,True
+4929,photo_32_2024-12-09_12-45-24.jpg,10,10,bus stop,bus stop,closed,True
+1208,photo_30_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3116,photo_51_2024-12-18_13-00-25.jpg,3,3,no stopping,no stopping,opened,True
+2231,photo_34_2024-12-18_13-02-03.jpg,1,1,give way,give way,opened,True
+1574,photo_5278624148517676625_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1619,photo_5278624148517676737_y.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3947,IMG_0775.JPG,6,6,left,left,opened,True
+2801,photo_34_2024-12-18_02-25-50.jpg,2,2,tow truck,tow truck,opened,True
+1337,photo_43_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3173,photo_82_2024-12-18_02-19-24.jpg,3,3,no stopping,no stopping,opened,True
+1804,photo_65_2024-12-09_12-45-24.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1390,photo_49_2024-10-29_09-53-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+5132,photo_80_2024-12-18_13-00-25.jpg,11,11,no entry,no entry,opened,True
+4392,photo_68_2024-12-07_12-47-32.jpg,7,7,stop line,stop line,closed,True
+1924,photo_77_2024-12-06_22-25-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4714,photo_26_2024-04-25_12-41-12.jpg,9,9,straight,straight,opened,True
+3780,photo_5_2024-10-29_09-53-08.jpg,5,5,maximum speed limit_40,maximum speed limit_40,opened,True
+1044,photo_14_2024-10-29_09-53-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2096,photo_93_2024-12-07_12-48-02.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1375,photo_47_2024-12-06_22-23-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+487,photo_56_2024-12-18_13-05-57.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2741,photo_19_2024-12-19_02-03-02.jpg,2,2,tow truck,tow truck,opened,True
+2287,photo_62_2024-12-09_12-46-01.jpg,1,1,give way,give way,opened,True
+4478,photo_1_2024-04-25_12-20-30.jpg,8,8,right,right,opened,True
+1892,photo_74_2024-10-29_09-54-21.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+4530,photo_36_2024-04-25_12-43-13.jpg,8,8,right,right,opened,True
+392,photo_44_2024-12-09_12-46-01.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2973,20241102_121843.jpg,2,2,tow truck,tow truck,closed,True
+547,photo_62_2024-12-19_02-04-55.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+575,photo_66_2024-12-09_12-49-48.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1328,photo_42_2024-12-05_22-23-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3920,photo_94_2024-12-07_12-47-32.jpg,5,5,maximum speed limit_40,maximum speed limit_40,closed,True
+2785,photo_30_2024-12-18_13-04-36.jpg,2,2,tow truck,tow truck,opened,True
+1235,photo_33_2024-12-05_22-23-50.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1190,photo_29_2024-12-07_12-48-02.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+2197,photo_24_2024-12-19_02-00-53.jpg,1,1,give way,give way,opened,True
+3938,IMG_0763_8_9.JPG,6,6,left,left,opened,True
+3518,photo_58_2024-12-18_13-00-25.jpg,4,4,parking place,parking place,opened,True
+4600,photo_7_2024-04-25_12-41-12_6.jpg,8,8,right,right,opened,True
+1982,photo_82_2024-12-06_22-25-52.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+1359,photo_45_2024-12-07_12-47-32.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3077,photo_23_2024-12-18_02-36-53.jpg,3,3,no stopping,no stopping,opened,True
+262,photo_31_2024-12-18_13-07-03.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+560,photo_64_2024-12-18_13-00-25.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+2275,photo_56_2024-12-18_02-25-50.jpg,1,1,give way,give way,opened,True
+216,photo_27_2024-12-19_02-04-55.jpg,0,0,pedestrian crossing,pedestrian crossing,opened,True
+1131,photo_23_2024-12-06_22-23-51.jpg,0,0,pedestrian crossing,pedestrian crossing,closed,True
+3403,photo_21_2024-12-18_02-33-06.jpg,4,4,parking place,parking place,opened,True

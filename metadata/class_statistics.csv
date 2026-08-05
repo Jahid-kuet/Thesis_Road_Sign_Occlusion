@@ -1,0 +1,13 @@
+label,class_name,opened,closed,total
+0,pedestrian crossing,892,1243,2135
+1,give way,250,328,578
+2,tow truck,247,80,327
+3,no stopping,170,147,317
+4,parking place,278,27,305
+5,maximum speed limit_40,191,73,264
+6,left,213,34,247
+7,stop line,156,78,234
+8,right,219,7,226
+9,straight,186,7,193
+10,bus stop,41,146,187
+11,no entry,152,9,161

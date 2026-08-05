@@ -1,0 +1,9 @@
+Overall Test Accuracy: 0.9665
+Opened Accuracy: 0.9622
+Closed Accuracy: 0.9725
+Macro Precision: 0.9588
+Macro Recall: 0.9452
+Macro F1-score: 0.9509
+Number of Test Images: 777
+Evaluation Time: 33.52 seconds
+Best Model Path: C:\Users\HP\OneDrive\Desktop\Thesis\masud sir\RoadSignResearch\models\custom_cnn_best.pth

@@ -1,0 +1,777 @@
+image_id,label,class_name,condition,width,height,filename,relative_path
+1519,0,pedestrian crossing,closed,960,1280,photo_5278624148517676441_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676441_y.jpg
+2930,2,tow truck,opened,696,650,photo_83_2024-12-19_02-00-53.jpg,dataset_top12\tow truck\opened\photo_83_2024-12-19_02-00-53.jpg
+2252,1,give way,opened,960,1280,photo_44_2024-12-09_12-46-32.jpg,dataset_top12\give way\opened\photo_44_2024-12-09_12-46-32.jpg
+4542,8,right,opened,133,136,photo_3_2024-04-25_12-41-12.jpg,dataset_top12\right\opened\photo_3_2024-04-25_12-41-12.jpg
+1607,0,pedestrian crossing,closed,720,1280,photo_5278624148517676725_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676725_y.jpg
+5049,11,no entry,opened,960,1280,photo_29_2024-12-18_13-05-23.jpg,dataset_top12\no entry\opened\photo_29_2024-12-18_13-05-23.jpg
+4440,8,right,opened,577,793,IMG_0837.JPG,dataset_top12\right\opened\IMG_0837.JPG
+2968,2,tow truck,closed,1773,1799,20241102_115820.jpg,dataset_top12\tow truck\closed\20241102_115820.jpg
+30,0,pedestrian crossing,opened,960,1280,photo_11_2024-12-18_13-07-03.jpg,dataset_top12\pedestrian crossing\opened\photo_11_2024-12-18_13-07-03.jpg
+4869,10,bus stop,closed,4624,3468,20241102_114148.jpg,dataset_top12\bus stop\closed\20241102_114148.jpg
+1791,0,pedestrian crossing,closed,960,1280,photo_64_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_64_2024-12-07_12-48-02.jpg
+1582,0,pedestrian crossing,closed,960,1280,photo_5278624148517676647_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676647_y.jpg
+4110,6,left,opened,195,194,photo_66_2024-04-25_12-41-12.jpg,dataset_top12\left\opened\photo_66_2024-04-25_12-41-12.jpg
+977,0,pedestrian crossing,closed,4640,3472,IMG_20241029_175300.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_175300.jpg
+323,0,pedestrian crossing,opened,797,817,photo_37_2024-12-18_12-58-24.jpg,dataset_top12\pedestrian crossing\opened\photo_37_2024-12-18_12-58-24.jpg
+1945,0,pedestrian crossing,closed,960,1280,photo_79_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_79_2024-12-07_12-48-02.jpg
+2135,0,pedestrian crossing,closed,960,1280,photo_9_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\closed\photo_9_2024-12-18_13-06-32.jpg
+421,0,pedestrian crossing,opened,960,1280,photo_48_2024-12-18_13-03-52.jpg,dataset_top12\pedestrian crossing\opened\photo_48_2024-12-18_13-03-52.jpg
+713,0,pedestrian crossing,opened,960,1280,photo_7_2024-12-18_02-33-06.jpg,dataset_top12\pedestrian crossing\opened\photo_7_2024-12-18_02-33-06.jpg
+843,0,pedestrian crossing,opened,960,1280,photo_94_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\opened\photo_94_2024-12-18_13-06-32.jpg
+2945,2,tow truck,opened,960,1280,photo_8_2024-12-18_02-25-50.jpg,dataset_top12\tow truck\opened\photo_8_2024-12-18_02-25-50.jpg
+4307,7,stop line,opened,520,521,photo_77_2024-12-09_12-49-48.jpg,dataset_top12\stop line\opened\photo_77_2024-12-09_12-49-48.jpg
+2484,1,give way,closed,996,1280,photo_22_2024-12-07_12-46-04.jpg,dataset_top12\give way\closed\photo_22_2024-12-07_12-46-04.jpg
+1345,0,pedestrian crossing,closed,960,1280,photo_44_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_44_2024-10-29_09-53-51.jpg
+4350,7,stop line,closed,724,744,photo_32_2024-12-06_22-24-57.jpg,dataset_top12\stop line\closed\photo_32_2024-12-06_22-24-57.jpg
+148,0,pedestrian crossing,opened,960,1280,photo_20_2024-12-19_00-11-08.jpg,dataset_top12\pedestrian crossing\opened\photo_20_2024-12-19_00-11-08.jpg
+2498,1,give way,closed,1280,991,photo_28_2024-12-07_12-46-52.jpg,dataset_top12\give way\closed\photo_28_2024-12-07_12-46-52.jpg
+4531,8,right,opened,62,82,photo_36_2024-04-25_12-43-13_8.jpg,dataset_top12\right\opened\photo_36_2024-04-25_12-43-13_8.jpg
+1352,0,pedestrian crossing,closed,960,1280,photo_45_2024-10-29_09-53-08.jpg,dataset_top12\pedestrian crossing\closed\photo_45_2024-10-29_09-53-08.jpg
+3177,3,no stopping,opened,323,324,photo_84_2024-12-09_12-49-48_1.jpg,dataset_top12\no stopping\opened\photo_84_2024-12-09_12-49-48_1.jpg
+2769,2,tow truck,opened,806,803,photo_26_2024-12-19_01-58-39.jpg,dataset_top12\tow truck\opened\photo_26_2024-12-19_01-58-39.jpg
+1265,0,pedestrian crossing,closed,960,1280,photo_36_2024-12-05_22-23-25.jpg,dataset_top12\pedestrian crossing\closed\photo_36_2024-12-05_22-23-25.jpg
+2035,0,pedestrian crossing,closed,960,1280,photo_87_2024-12-07_12-48-37.jpg,dataset_top12\pedestrian crossing\closed\photo_87_2024-12-07_12-48-37.jpg
+3096,3,no stopping,opened,960,1280,photo_34_2024-12-18_13-00-25.jpg,dataset_top12\no stopping\opened\photo_34_2024-12-18_13-00-25.jpg
+2900,2,tow truck,opened,696,594,photo_69_2024-12-18_02-17-59.jpg,dataset_top12\tow truck\opened\photo_69_2024-12-18_02-17-59.jpg
+3952,6,left,opened,1217,1340,IMG_0780.JPG,dataset_top12\left\opened\IMG_0780.JPG
+568,0,pedestrian crossing,opened,960,1280,photo_65_2024-12-18_12-58-24.jpg,dataset_top12\pedestrian crossing\opened\photo_65_2024-12-18_12-58-24.jpg
+1727,0,pedestrian crossing,closed,960,1280,photo_58_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_58_2024-12-07_12-48-02.jpg
+657,0,pedestrian crossing,opened,960,1280,photo_73_2024-12-19_01-58-39.jpg,dataset_top12\pedestrian crossing\opened\photo_73_2024-12-19_01-58-39.jpg
+4707,9,straight,opened,342,368,photo_22_2024-04-25_12-43-13.jpg,dataset_top12\straight\opened\photo_22_2024-04-25_12-43-13.jpg
+4436,8,right,opened,649,907,IMG_0815.JPG,dataset_top12\right\opened\IMG_0815.JPG
+3832,5,maximum speed limit_40,opened,960,780,photo_91_2024-12-18_13-01-24.jpg,dataset_top12\maximum speed limit_40\opened\photo_91_2024-12-18_13-01-24.jpg
+4974,10,bus stop,closed,1055,1280,photo_54_2024-12-07_12-46-52.jpg,dataset_top12\bus stop\closed\photo_54_2024-12-07_12-46-52.jpg
+3316,3,no stopping,closed,1280,1007,photo_75_2024-12-07_12-47-32.jpg,dataset_top12\no stopping\closed\photo_75_2024-12-07_12-47-32.jpg
+1338,0,pedestrian crossing,closed,1280,839,photo_43_2024-12-05_22-23-10.jpg,dataset_top12\pedestrian crossing\closed\photo_43_2024-12-05_22-23-10.jpg
+3305,3,no stopping,closed,1280,1005,photo_68_2024-12-07_12-46-04.jpg,dataset_top12\no stopping\closed\photo_68_2024-12-07_12-46-04.jpg
+4916,10,bus stop,closed,1097,1280,photo_27_2024-12-07_12-46-04.jpg,dataset_top12\bus stop\closed\photo_27_2024-12-07_12-46-04.jpg
+363,0,pedestrian crossing,opened,960,1280,photo_40_2024-12-18_02-17-32.jpg,dataset_top12\pedestrian crossing\opened\photo_40_2024-12-18_02-17-32.jpg
+3531,4,parking place,opened,960,1280,photo_60_2024-12-18_13-01-24.jpg,dataset_top12\parking place\opened\photo_60_2024-12-18_13-01-24.jpg
+3831,5,maximum speed limit_40,opened,774,753,photo_91_2024-12-18_02-36-53.jpg,dataset_top12\maximum speed limit_40\opened\photo_91_2024-12-18_02-36-53.jpg
+1743,0,pedestrian crossing,closed,960,1280,photo_5_2024-10-29_09-54-37.jpg,dataset_top12\pedestrian crossing\closed\photo_5_2024-10-29_09-54-37.jpg
+2059,0,pedestrian crossing,closed,960,1280,photo_8_2024-12-05_22-22-53.jpg,dataset_top12\pedestrian crossing\closed\photo_8_2024-12-05_22-22-53.jpg
+1734,0,pedestrian crossing,closed,960,1280,photo_59_2024-12-05_22-23-25.jpg,dataset_top12\pedestrian crossing\closed\photo_59_2024-12-05_22-23-25.jpg
+2279,1,give way,opened,550,566,photo_57_2024-12-19_02-00-53.jpg,dataset_top12\give way\opened\photo_57_2024-12-19_02-00-53.jpg
+4671,9,straight,opened,443,445,photo_10_2024-05-17_15-34-29_1.jpg,dataset_top12\straight\opened\photo_10_2024-05-17_15-34-29_1.jpg
+2270,1,give way,opened,553,528,photo_54_2024-12-09_12-46-01_1.jpg,dataset_top12\give way\opened\photo_54_2024-12-09_12-46-01_1.jpg
+4431,8,right,opened,944,1348,IMG_0811.JPG,dataset_top12\right\opened\IMG_0811.JPG
+2603,1,give way,closed,696,808,photo_5278624148517676708_y.jpg,dataset_top12\give way\closed\photo_5278624148517676708_y.jpg
+4387,7,stop line,closed,960,1280,photo_64_2024-12-05_22-23-25.jpg,dataset_top12\stop line\closed\photo_64_2024-12-05_22-23-25.jpg
+246,0,pedestrian crossing,opened,960,1280,photo_2_2024-12-18_13-01-24.jpg,dataset_top12\pedestrian crossing\opened\photo_2_2024-12-18_13-01-24.jpg
+3951,6,left,opened,1025,1388,IMG_0779.JPG,dataset_top12\left\opened\IMG_0779.JPG
+4763,9,straight,opened,342,342,photo_4_2024-05-17_15-34-29_4.jpg,dataset_top12\straight\opened\photo_4_2024-05-17_15-34-29_4.jpg
+4289,7,stop line,opened,336,337,photo_60_2024-12-09_12-45-24.jpg,dataset_top12\stop line\opened\photo_60_2024-12-09_12-45-24.jpg
+2998,2,tow truck,closed,1162,828,photo_37_2024-12-06_22-25-22.jpg,dataset_top12\tow truck\closed\photo_37_2024-12-06_22-25-22.jpg
+4629,8,right,closed,483,474,photo_82_2024-12-05_22-22-53.jpg,dataset_top12\right\closed\photo_82_2024-12-05_22-22-53.jpg
+3802,5,maximum speed limit_40,opened,671,743,photo_74_2024-12-19_02-03-02.jpg,dataset_top12\maximum speed limit_40\opened\photo_74_2024-12-19_02-03-02.jpg
+1158,0,pedestrian crossing,closed,960,1280,photo_26_2024-12-05_22-23-10.jpg,dataset_top12\pedestrian crossing\closed\photo_26_2024-12-05_22-23-10.jpg
+1636,0,pedestrian crossing,closed,720,1280,photo_5278624148517676754_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676754_y.jpg
+1641,0,pedestrian crossing,closed,720,1280,photo_5278624148517676762_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676762_y.jpg
+4044,6,left,opened,105,136,photo_2_2024-04-25_12-41-12_copy_9.jpg,dataset_top12\left\opened\photo_2_2024-04-25_12-41-12_copy_9.jpg
+3971,6,left,opened,427,684,IMG_0824.JPG,dataset_top12\left\opened\IMG_0824.JPG
+2422,1,give way,closed,2163,2018,IMG_20241029_175141.jpg,dataset_top12\give way\closed\IMG_20241029_175141.jpg
+416,0,pedestrian crossing,opened,960,1280,photo_48_2024-12-18_02-27-47.jpg,dataset_top12\pedestrian crossing\opened\photo_48_2024-12-18_02-27-47.jpg
+4006,6,left,opened,362,335,photo_16_2024-04-25_12-20-30.jpg,dataset_top12\left\opened\photo_16_2024-04-25_12-20-30.jpg
+3585,4,parking place,opened,762,724,photo_7_2024-12-19_01-56-44.jpg,dataset_top12\parking place\opened\photo_7_2024-12-19_01-56-44.jpg
+1861,0,pedestrian crossing,closed,960,1280,photo_70_2024-12-07_12-49-18.jpg,dataset_top12\pedestrian crossing\closed\photo_70_2024-12-07_12-49-18.jpg
+1617,0,pedestrian crossing,closed,720,1280,photo_5278624148517676735_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676735_y.jpg
+1851,0,pedestrian crossing,closed,960,1280,photo_6_2024-12-09_12-45-24.jpg,dataset_top12\pedestrian crossing\closed\photo_6_2024-12-09_12-45-24.jpg
+2572,1,give way,closed,720,1280,photo_5278624148517676547_y.jpg,dataset_top12\give way\closed\photo_5278624148517676547_y.jpg
+3882,5,maximum speed limit_40,closed,1280,953,photo_4_2024-12-05_22-23-25.jpg,dataset_top12\maximum speed limit_40\closed\photo_4_2024-12-05_22-23-25.jpg
+3640,4,parking place,closed,578,583,photo_37_2024-12-09_12-45-24.jpg,dataset_top12\parking place\closed\photo_37_2024-12-09_12-45-24.jpg
+1836,0,pedestrian crossing,closed,960,1280,photo_69_2024-12-05_22-23-25.jpg,dataset_top12\pedestrian crossing\closed\photo_69_2024-12-05_22-23-25.jpg
+928,0,pedestrian crossing,closed,4640,3472,IMG_20241017_162250.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241017_162250.jpg
+2800,2,tow truck,opened,398,401,photo_33_2024-12-19_02-03-02.jpg,dataset_top12\tow truck\opened\photo_33_2024-12-19_02-03-02.jpg
+2632,1,give way,closed,960,1280,photo_63_2024-12-06_22-24-57.jpg,dataset_top12\give way\closed\photo_63_2024-12-06_22-24-57.jpg
+3029,2,tow truck,closed,1280,832,photo_87_2024-12-05_22-23-10.jpg,dataset_top12\tow truck\closed\photo_87_2024-12-05_22-23-10.jpg
+673,0,pedestrian crossing,opened,960,1280,photo_76_2024-12-09_12-46-01.jpg,dataset_top12\pedestrian crossing\opened\photo_76_2024-12-09_12-46-01.jpg
+1183,0,pedestrian crossing,closed,960,1280,photo_28_2024-12-09_12-46-01.jpg,dataset_top12\pedestrian crossing\closed\photo_28_2024-12-09_12-46-01.jpg
+4424,8,right,opened,1311,1565,IMG_0801.JPG,dataset_top12\right\opened\IMG_0801.JPG
+5128,11,no entry,opened,960,1280,photo_76_2024-12-18_13-04-36.jpg,dataset_top12\no entry\opened\photo_76_2024-12-18_13-04-36.jpg
+1510,0,pedestrian crossing,closed,960,1280,photo_5278624148517676407_y (1).jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676407_y (1).jpg
+2336,1,give way,opened,960,1280,photo_81_2024-12-09_12-46-32.jpg,dataset_top12\give way\opened\photo_81_2024-12-09_12-46-32.jpg
+122,0,pedestrian crossing,opened,960,1280,photo_19_2024-12-18_13-05-57.jpg,dataset_top12\pedestrian crossing\opened\photo_19_2024-12-18_13-05-57.jpg
+102,0,pedestrian crossing,opened,960,1280,photo_17_2024-12-19_00-11-08.jpg,dataset_top12\pedestrian crossing\opened\photo_17_2024-12-19_00-11-08.jpg
+2858,2,tow truck,opened,713,642,photo_54_2024-12-18_02-17-59.jpg,dataset_top12\tow truck\opened\photo_54_2024-12-18_02-17-59.jpg
+488,0,pedestrian crossing,opened,960,1280,photo_56_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\opened\photo_56_2024-12-18_13-06-32.jpg
+3418,4,parking place,opened,960,1280,photo_24_2024-12-18_12-58-24.jpg,dataset_top12\parking place\opened\photo_24_2024-12-18_12-58-24.jpg
+1299,0,pedestrian crossing,closed,960,1280,photo_3_2024-12-06_22-24-57.jpg,dataset_top12\pedestrian crossing\closed\photo_3_2024-12-06_22-24-57.jpg
+2351,1,give way,opened,553,551,photo_87_2024-12-19_02-00-53.jpg,dataset_top12\give way\opened\photo_87_2024-12-19_02-00-53.jpg
+1860,0,pedestrian crossing,closed,960,1280,photo_70_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_70_2024-12-07_12-48-02.jpg
+3476,4,parking place,opened,960,1280,photo_44_2024-12-18_12-58-24.jpg,dataset_top12\parking place\opened\photo_44_2024-12-18_12-58-24.jpg
+708,0,pedestrian crossing,opened,960,1280,photo_79_2024-12-19_01-58-39.jpg,dataset_top12\pedestrian crossing\opened\photo_79_2024-12-19_01-58-39.jpg
+1407,0,pedestrian crossing,closed,960,1280,photo_4_2024-12-06_22-24-57.jpg,dataset_top12\pedestrian crossing\closed\photo_4_2024-12-06_22-24-57.jpg
+4548,8,right,opened,156,173,photo_41_2024-04-25_12-43-13.jpg,dataset_top12\right\opened\photo_41_2024-04-25_12-43-13.jpg
+2090,0,pedestrian crossing,closed,960,1280,photo_92_2024-12-09_12-46-01.jpg,dataset_top12\pedestrian crossing\closed\photo_92_2024-12-09_12-46-01.jpg
+273,0,pedestrian crossing,opened,960,1280,photo_33_2024-12-09_12-46-01.jpg,dataset_top12\pedestrian crossing\opened\photo_33_2024-12-09_12-46-01.jpg
+3234,3,no stopping,closed,1727,2054,20241102_121843_1.jpg,dataset_top12\no stopping\closed\20241102_121843_1.jpg
+223,0,pedestrian crossing,opened,960,1280,photo_28_2024-12-18_13-00-25.jpg,dataset_top12\pedestrian crossing\opened\photo_28_2024-12-18_13-00-25.jpg
+2832,2,tow truck,opened,753,797,photo_42_2024-12-19_02-03-02.jpg,dataset_top12\tow truck\opened\photo_42_2024-12-19_02-03-02.jpg
+1567,0,pedestrian crossing,closed,516,557,photo_5278624148517676618_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676618_y.jpg
+1145,0,pedestrian crossing,closed,960,1280,photo_24_2024-12-09_12-50-33.jpg,dataset_top12\pedestrian crossing\closed\photo_24_2024-12-09_12-50-33.jpg
+3209,3,no stopping,opened,960,1280,photo_9_2024-12-18_02-19-40.jpg,dataset_top12\no stopping\opened\photo_9_2024-12-18_02-19-40.jpg
+5038,11,no entry,opened,424,393,photo_22_2024-12-18_02-25-50.jpg,dataset_top12\no entry\opened\photo_22_2024-12-18_02-25-50.jpg
+2318,1,give way,opened,612,589,photo_74_2024-12-19_00-10-31.jpg,dataset_top12\give way\opened\photo_74_2024-12-19_00-10-31.jpg
+4260,7,stop line,opened,700,613,photo_48_2024-12-18_13-00-25.jpg,dataset_top12\stop line\opened\photo_48_2024-12-18_13-00-25.jpg
+395,0,pedestrian crossing,opened,960,1280,photo_44_2024-12-18_02-27-47.jpg,dataset_top12\pedestrian crossing\opened\photo_44_2024-12-18_02-27-47.jpg
+2111,0,pedestrian crossing,closed,1275,1280,photo_96_2024-12-07_12-46-52.jpg,dataset_top12\pedestrian crossing\closed\photo_96_2024-12-07_12-46-52.jpg
+4336,7,stop line,closed,1431,1417,IMG_20241021_180621_1.jpg,dataset_top12\stop line\closed\IMG_20241021_180621_1.jpg
+950,0,pedestrian crossing,closed,4640,3472,IMG_20241029_174043.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_174043.jpg
+116,0,pedestrian crossing,opened,960,1280,photo_19_2024-12-09_12-49-48.jpg,dataset_top12\pedestrian crossing\opened\photo_19_2024-12-09_12-49-48.jpg
+3437,4,parking place,opened,792,760,photo_2_2024-12-19_01-56-44.jpg,dataset_top12\parking place\opened\photo_2_2024-12-19_01-56-44.jpg
+1943,0,pedestrian crossing,closed,960,1280,photo_79_2024-12-05_22-23-10.jpg,dataset_top12\pedestrian crossing\closed\photo_79_2024-12-05_22-23-10.jpg
+3529,4,parking place,opened,960,1280,photo_5_2024-12-19_02-00-05.jpg,dataset_top12\parking place\opened\photo_5_2024-12-19_02-00-05.jpg
+3390,4,parking place,opened,960,1280,photo_19_2024-12-09_12-50-33.jpg,dataset_top12\parking place\opened\photo_19_2024-12-09_12-50-33.jpg
+5066,11,no entry,opened,960,1280,photo_3_2024-12-18_02-27-47.jpg,dataset_top12\no entry\opened\photo_3_2024-12-18_02-27-47.jpg
+5099,11,no entry,opened,960,1280,photo_55_2024-12-18_13-01-24.jpg,dataset_top12\no entry\opened\photo_55_2024-12-18_13-01-24.jpg
+4543,8,right,opened,91,86,photo_3_2024-04-25_12-41-12_2.jpg,dataset_top12\right\opened\photo_3_2024-04-25_12-41-12_2.jpg
+611,0,pedestrian crossing,opened,960,1280,photo_69_2024-12-19_01-58-39.jpg,dataset_top12\pedestrian crossing\opened\photo_69_2024-12-19_01-58-39.jpg
+4823,9,straight,closed,960,1280,photo_48_2024-12-06_22-25-52.jpg,dataset_top12\straight\closed\photo_48_2024-12-06_22-25-52.jpg
+3977,6,left,opened,477,516,IMG_0831.JPG,dataset_top12\left\opened\IMG_0831.JPG
+1351,0,pedestrian crossing,closed,960,1280,photo_44_2024-12-07_12-48-37.jpg,dataset_top12\pedestrian crossing\closed\photo_44_2024-12-07_12-48-37.jpg
+2091,0,pedestrian crossing,closed,960,1280,photo_93_2024-10-29_09-53-08.jpg,dataset_top12\pedestrian crossing\closed\photo_93_2024-10-29_09-53-08.jpg
+3700,5,maximum speed limit_40,opened,461,471,photo_27_2024-12-18_02-13-44.jpg,dataset_top12\maximum speed limit_40\opened\photo_27_2024-12-18_02-13-44.jpg
+2778,2,tow truck,opened,890,852,photo_29_2024-12-19_01-58-39.jpg,dataset_top12\tow truck\opened\photo_29_2024-12-19_01-58-39.jpg
+1129,0,pedestrian crossing,closed,960,1280,photo_23_2024-12-05_22-22-53.jpg,dataset_top12\pedestrian crossing\closed\photo_23_2024-12-05_22-22-53.jpg
+524,0,pedestrian crossing,opened,960,1280,photo_5_2024-12-19_00-11-08.jpg,dataset_top12\pedestrian crossing\opened\photo_5_2024-12-19_00-11-08.jpg
+3163,3,no stopping,opened,390,391,photo_78_2024-12-09_12-46-01_1.jpg,dataset_top12\no stopping\opened\photo_78_2024-12-09_12-46-01_1.jpg
+1418,0,pedestrian crossing,closed,1280,921,photo_50_2024-12-05_22-23-10.jpg,dataset_top12\pedestrian crossing\closed\photo_50_2024-12-05_22-23-10.jpg
+1867,0,pedestrian crossing,closed,798,866,photo_71_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_71_2024-12-07_12-48-02.jpg
+549,0,pedestrian crossing,opened,960,1280,photo_63_2024-12-09_12-46-32.jpg,dataset_top12\pedestrian crossing\opened\photo_63_2024-12-09_12-46-32.jpg
+1545,0,pedestrian crossing,closed,720,1280,photo_5278624148517676538_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676538_y.jpg
+2394,1,give way,closed,4640,3472,IMG_20241017_160724.jpg,dataset_top12\give way\closed\IMG_20241017_160724.jpg
+2584,1,give way,closed,960,1280,photo_5278624148517676646_y.jpg,dataset_top12\give way\closed\photo_5278624148517676646_y.jpg
+2445,1,give way,closed,960,1280,photo_10_2024-12-07_12-49-18.jpg,dataset_top12\give way\closed\photo_10_2024-12-07_12-49-18.jpg
+894,0,pedestrian crossing,closed,4624,3468,20241102_112247.jpg,dataset_top12\pedestrian crossing\closed\20241102_112247.jpg
+2036,0,pedestrian crossing,closed,914,1037,photo_87_2024-12-07_12-49-18.jpg,dataset_top12\pedestrian crossing\closed\photo_87_2024-12-07_12-49-18.jpg
+5122,11,no entry,opened,960,1280,photo_73_2024-12-18_13-06-32.jpg,dataset_top12\no entry\opened\photo_73_2024-12-18_13-06-32.jpg
+3730,5,maximum speed limit_40,opened,601,612,photo_42_2024-12-18_02-22-06.jpg,dataset_top12\maximum speed limit_40\opened\photo_42_2024-12-18_02-22-06.jpg
+2299,1,give way,opened,960,1280,photo_68_2024-12-18_02-28-33.jpg,dataset_top12\give way\opened\photo_68_2024-12-18_02-28-33.jpg
+714,0,pedestrian crossing,opened,960,938,photo_7_2024-12-18_13-00-25.jpg,dataset_top12\pedestrian crossing\opened\photo_7_2024-12-18_13-00-25.jpg
+2192,1,give way,opened,960,1280,photo_23_2024-12-18_13-01-24.jpg,dataset_top12\give way\opened\photo_23_2024-12-18_13-01-24.jpg
+3046,3,no stopping,opened,960,1280,photo_10_2024-12-18_13-00-25.jpg,dataset_top12\no stopping\opened\photo_10_2024-12-18_13-00-25.jpg
+4390,7,stop line,closed,803,791,photo_66_2024-12-07_12-47-32.jpg,dataset_top12\stop line\closed\photo_66_2024-12-07_12-47-32.jpg
+3117,3,no stopping,opened,706,747,photo_54_2024-12-19_02-03-02.jpg,dataset_top12\no stopping\opened\photo_54_2024-12-19_02-03-02.jpg
+3160,3,no stopping,opened,540,544,photo_76_2024-12-09_12-49-48_1.jpg,dataset_top12\no stopping\opened\photo_76_2024-12-09_12-49-48_1.jpg
+2812,2,tow truck,opened,455,485,photo_37_2024-12-19_02-00-53.jpg,dataset_top12\tow truck\opened\photo_37_2024-12-19_02-00-53.jpg
+3934,6,left,opened,473,552,IMG_0762_6.JPG,dataset_top12\left\opened\IMG_0762_6.JPG
+3903,5,maximum speed limit_40,closed,1265,1280,photo_61_2024-12-07_12-48-37.jpg,dataset_top12\maximum speed limit_40\closed\photo_61_2024-12-07_12-48-37.jpg
+292,0,pedestrian crossing,opened,960,1280,photo_34_2024-12-18_13-07-03.jpg,dataset_top12\pedestrian crossing\opened\photo_34_2024-12-18_13-07-03.jpg
+4059,6,left,opened,410,429,photo_37_2024-04-25_12-43-13.jpg,dataset_top12\left\opened\photo_37_2024-04-25_12-43-13.jpg
+3461,4,parking place,opened,960,1280,photo_39_2024-12-18_13-05-57.jpg,dataset_top12\parking place\opened\photo_39_2024-12-18_13-05-57.jpg
+1233,0,pedestrian crossing,closed,960,1280,photo_33_2024-12-05_22-23-10.jpg,dataset_top12\pedestrian crossing\closed\photo_33_2024-12-05_22-23-10.jpg
+1006,0,pedestrian crossing,closed,4640,3472,IMG_20241029_181931.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_181931.jpg
+4288,7,stop line,opened,927,933,photo_5_2024-12-18_13-05-57.jpg,dataset_top12\stop line\opened\photo_5_2024-12-18_13-05-57.jpg
+388,0,pedestrian crossing,opened,960,1280,photo_42_2024-12-19_02-04-55.jpg,dataset_top12\pedestrian crossing\opened\photo_42_2024-12-19_02-04-55.jpg
+2644,1,give way,closed,824,1123,photo_67_2024-10-29_09-53-51.jpg,dataset_top12\give way\closed\photo_67_2024-10-29_09-53-51.jpg
+1041,0,pedestrian crossing,closed,960,1280,photo_13_2024-12-09_12-45-24.jpg,dataset_top12\pedestrian crossing\closed\photo_13_2024-12-09_12-45-24.jpg
+228,0,pedestrian crossing,opened,960,1280,photo_28_2024-12-18_13-07-03.jpg,dataset_top12\pedestrian crossing\opened\photo_28_2024-12-18_13-07-03.jpg
+2327,1,give way,opened,960,1280,photo_79_2024-12-18_02-25-50.jpg,dataset_top12\give way\opened\photo_79_2024-12-18_02-25-50.jpg
+2533,1,give way,closed,960,1280,photo_40_2024-12-07_12-47-32.jpg,dataset_top12\give way\closed\photo_40_2024-12-07_12-47-32.jpg
+3051,3,no stopping,opened,474,470,photo_11_2024-12-19_02-00-05.jpg,dataset_top12\no stopping\opened\photo_11_2024-12-19_02-00-05.jpg
+3138,3,no stopping,opened,960,1280,photo_67_2024-12-18_02-28-33.jpg,dataset_top12\no stopping\opened\photo_67_2024-12-18_02-28-33.jpg
+2865,2,tow truck,opened,554,570,photo_56_2024-12-19_02-03-02.jpg,dataset_top12\tow truck\opened\photo_56_2024-12-19_02-03-02.jpg
+2438,1,give way,closed,1914,2033,IMG_20241029_181807.jpg,dataset_top12\give way\closed\IMG_20241029_181807.jpg
+1917,0,pedestrian crossing,closed,960,1280,photo_76_2024-12-06_22-25-52.jpg,dataset_top12\pedestrian crossing\closed\photo_76_2024-12-06_22-25-52.jpg
+2662,1,give way,closed,853,1125,photo_77_2024-10-29_09-53-51.jpg,dataset_top12\give way\closed\photo_77_2024-10-29_09-53-51.jpg
+2586,1,give way,closed,960,1280,photo_5278624148517676653_y.jpg,dataset_top12\give way\closed\photo_5278624148517676653_y.jpg
+1511,0,pedestrian crossing,closed,960,1280,photo_5278624148517676409_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676409_y.jpg
+3068,3,no stopping,opened,747,714,photo_19_2024-12-18_02-37-13.jpg,dataset_top12\no stopping\opened\photo_19_2024-12-18_02-37-13.jpg
+4697,9,straight,opened,152,161,photo_17_2024-04-25_12-43-13_9.jpg,dataset_top12\straight\opened\photo_17_2024-04-25_12-43-13_9.jpg
+5160,11,no entry,opened,960,1280,photo_96_2024-12-18_02-27-08.jpg,dataset_top12\no entry\opened\photo_96_2024-12-18_02-27-08.jpg
+2955,2,tow truck,opened,648,620,photo_92_2024-12-19_02-03-02.jpg,dataset_top12\tow truck\opened\photo_92_2024-12-19_02-03-02.jpg
+1220,0,pedestrian crossing,closed,1040,1280,photo_31_2024-12-07_12-46-52.jpg,dataset_top12\pedestrian crossing\closed\photo_31_2024-12-07_12-46-52.jpg
+1056,0,pedestrian crossing,closed,960,1280,photo_16_2024-10-29_09-53-08.jpg,dataset_top12\pedestrian crossing\closed\photo_16_2024-10-29_09-53-08.jpg
+1759,0,pedestrian crossing,closed,960,1280,photo_60_2024-12-07_12-51-07.jpg,dataset_top12\pedestrian crossing\closed\photo_60_2024-12-07_12-51-07.jpg
+480,0,pedestrian crossing,opened,960,1280,photo_55_2024-12-18_02-36-53.jpg,dataset_top12\pedestrian crossing\opened\photo_55_2024-12-18_02-36-53.jpg
+982,0,pedestrian crossing,closed,4640,3472,IMG_20241029_175624.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_175624.jpg
+107,0,pedestrian crossing,opened,960,1280,photo_18_2024-12-18_12-58-24.jpg,dataset_top12\pedestrian crossing\opened\photo_18_2024-12-18_12-58-24.jpg
+1470,0,pedestrian crossing,closed,790,799,photo_5278624148517676349_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676349_y.jpg
+853,0,pedestrian crossing,opened,595,553,photo_96_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\opened\photo_96_2024-10-29_09-53-51.jpg
+2495,1,give way,closed,1280,1216,photo_27_2024-12-07_12-47-32.jpg,dataset_top12\give way\closed\photo_27_2024-12-07_12-47-32.jpg
+1562,0,pedestrian crossing,closed,960,1280,photo_5278624148517676613_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676613_y.jpg
+3133,3,no stopping,opened,549,553,photo_64_2024-12-09_12-46-32_1.jpg,dataset_top12\no stopping\opened\photo_64_2024-12-09_12-46-32_1.jpg
+2712,1,give way,closed,465,446,photo_9_2024-12-07_12-48-02_1.jpg,dataset_top12\give way\closed\photo_9_2024-12-07_12-48-02_1.jpg
+4939,10,bus stop,closed,960,1280,photo_37_2024-12-05_22-23-50.jpg,dataset_top12\bus stop\closed\photo_37_2024-12-05_22-23-50.jpg
+1009,0,pedestrian crossing,closed,4640,3472,IMG_20241029_182120.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_182120.jpg
+1008,0,pedestrian crossing,closed,4640,3472,IMG_20241029_182113.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_182113.jpg
+2823,2,tow truck,opened,708,757,photo_40_2024-12-19_02-03-02.jpg,dataset_top12\tow truck\opened\photo_40_2024-12-19_02-03-02.jpg
+1026,0,pedestrian crossing,closed,797,562,photo_11_2024-12-07_12-51-07.jpg,dataset_top12\pedestrian crossing\closed\photo_11_2024-12-07_12-51-07.jpg
+1477,0,pedestrian crossing,closed,960,1280,photo_5278624148517676358_y (1).jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676358_y (1).jpg
+685,0,pedestrian crossing,opened,960,1280,photo_77_2024-12-18_12-58-24.jpg,dataset_top12\pedestrian crossing\opened\photo_77_2024-12-18_12-58-24.jpg
+3862,5,maximum speed limit_40,closed,1135,1280,photo_13_2024-12-07_12-48-36.jpg,dataset_top12\maximum speed limit_40\closed\photo_13_2024-12-07_12-48-36.jpg
+1679,0,pedestrian crossing,closed,960,1280,photo_53_2024-10-29_09-53-08.jpg,dataset_top12\pedestrian crossing\closed\photo_53_2024-10-29_09-53-08.jpg
+4677,9,straight,opened,232,381,photo_12_2024-04-25_12-20-30.jpg,dataset_top12\straight\opened\photo_12_2024-04-25_12-20-30.jpg
+3167,3,no stopping,opened,607,611,photo_7_2024-12-09_12-49-48_1.jpg,dataset_top12\no stopping\opened\photo_7_2024-12-09_12-49-48_1.jpg
+440,0,pedestrian crossing,opened,960,1280,photo_4_2024-12-18_13-07-03.jpg,dataset_top12\pedestrian crossing\opened\photo_4_2024-12-18_13-07-03.jpg
+2529,1,give way,closed,543,579,photo_3_2024-12-06_22-24-22.jpg,dataset_top12\give way\closed\photo_3_2024-12-06_22-24-22.jpg
+557,0,pedestrian crossing,opened,960,1280,photo_64_2024-12-18_02-17-32.jpg,dataset_top12\pedestrian crossing\opened\photo_64_2024-12-18_02-17-32.jpg
+3622,4,parking place,opened,960,1280,photo_95_2024-12-19_02-00-05.jpg,dataset_top12\parking place\opened\photo_95_2024-12-19_02-00-05.jpg
+2258,1,give way,opened,960,1280,photo_46_2024-12-18_12-58-24.jpg,dataset_top12\give way\opened\photo_46_2024-12-18_12-58-24.jpg
+4809,9,straight,opened,166,165,photo_8_2024-05-17_15-34-28.jpg,dataset_top12\straight\opened\photo_8_2024-05-17_15-34-28.jpg
+31,0,pedestrian crossing,opened,960,1280,photo_11_2024-12-19_00-11-08.jpg,dataset_top12\pedestrian crossing\opened\photo_11_2024-12-19_00-11-08.jpg
+3766,5,maximum speed limit_40,opened,600,584,photo_52_2024-12-18_02-22-06.jpg,dataset_top12\maximum speed limit_40\opened\photo_52_2024-12-18_02-22-06.jpg
+763,0,pedestrian crossing,opened,960,1280,photo_85_2024-12-18_13-05-23.jpg,dataset_top12\pedestrian crossing\opened\photo_85_2024-12-18_13-05-23.jpg
+2538,1,give way,closed,895,910,photo_42_2024-12-07_12-47-32.jpg,dataset_top12\give way\closed\photo_42_2024-12-07_12-47-32.jpg
+2904,2,tow truck,opened,688,596,photo_70_2024-12-18_02-17-59.jpg,dataset_top12\tow truck\opened\photo_70_2024-12-18_02-17-59.jpg
+2292,1,give way,opened,557,553,photo_64_2024-12-19_02-00-53.jpg,dataset_top12\give way\opened\photo_64_2024-12-19_02-00-53.jpg
+5017,11,no entry,opened,960,1280,photo_11_2024-12-18_02-17-59.jpg,dataset_top12\no entry\opened\photo_11_2024-12-18_02-17-59.jpg
+49,0,pedestrian crossing,opened,960,1280,photo_13_2024-12-18_02-25-50.jpg,dataset_top12\pedestrian crossing\opened\photo_13_2024-12-18_02-25-50.jpg
+202,0,pedestrian crossing,opened,960,1280,photo_26_2024-12-19_00-11-08.jpg,dataset_top12\pedestrian crossing\opened\photo_26_2024-12-19_00-11-08.jpg
+3597,4,parking place,opened,960,1280,photo_86_2024-12-18_13-01-24.jpg,dataset_top12\parking place\opened\photo_86_2024-12-18_13-01-24.jpg
+3073,3,no stopping,opened,960,1280,photo_20_2024-12-18_13-00-25.jpg,dataset_top12\no stopping\opened\photo_20_2024-12-18_13-00-25.jpg
+3695,5,maximum speed limit_40,opened,607,607,photo_22_2024-12-18_02-22-06.jpg,dataset_top12\maximum speed limit_40\opened\photo_22_2024-12-18_02-22-06.jpg
+1738,0,pedestrian crossing,closed,960,1280,photo_59_2024-12-07_12-51-07.jpg,dataset_top12\pedestrian crossing\closed\photo_59_2024-12-07_12-51-07.jpg
+4476,8,right,opened,117,120,photo_19_2024-04-25_12-43-13_8.jpg,dataset_top12\right\opened\photo_19_2024-04-25_12-43-13_8.jpg
+2486,1,give way,closed,960,1280,photo_22_2024-12-09_12-46-32.jpg,dataset_top12\give way\closed\photo_22_2024-12-09_12-46-32.jpg
+787,0,pedestrian crossing,opened,911,911,photo_89_2024-12-18_13-00-25.jpg,dataset_top12\pedestrian crossing\opened\photo_89_2024-12-18_13-00-25.jpg
+4703,9,straight,opened,142,145,photo_1_2024-05-17_15-34-29_t.jpg,dataset_top12\straight\opened\photo_1_2024-05-17_15-34-29_t.jpg
+155,0,pedestrian crossing,opened,960,1280,photo_21_2024-12-18_13-03-52.jpg,dataset_top12\pedestrian crossing\opened\photo_21_2024-12-18_13-03-52.jpg
+73,0,pedestrian crossing,opened,960,1153,photo_15_2024-12-18_13-02-03.jpg,dataset_top12\pedestrian crossing\opened\photo_15_2024-12-18_13-02-03.jpg
+3616,4,parking place,opened,960,1280,photo_92_2024-12-19_01-59-18.jpg,dataset_top12\parking place\opened\photo_92_2024-12-19_01-59-18.jpg
+4071,6,left,opened,420,405,photo_3_2024-12-19_02-04-54.jpg,dataset_top12\left\opened\photo_3_2024-12-19_02-04-54.jpg
+4460,8,right,opened,57,54,photo_15_2024-04-25_12-20-30_6.jpg,dataset_top12\right\opened\photo_15_2024-04-25_12-20-30_6.jpg
+1246,0,pedestrian crossing,closed,960,1280,photo_34_2024-12-05_22-23-25.jpg,dataset_top12\pedestrian crossing\closed\photo_34_2024-12-05_22-23-25.jpg
+3381,4,parking place,opened,960,1280,photo_16_2024-12-19_02-00-05.jpg,dataset_top12\parking place\opened\photo_16_2024-12-19_02-00-05.jpg
+2579,1,give way,closed,960,1280,photo_5278624148517676588_y.jpg,dataset_top12\give way\closed\photo_5278624148517676588_y.jpg
+509,0,pedestrian crossing,opened,960,1280,photo_59_2024-12-09_12-46-32.jpg,dataset_top12\pedestrian crossing\opened\photo_59_2024-12-09_12-46-32.jpg
+1554,0,pedestrian crossing,closed,960,1280,photo_5278624148517676597_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676597_y.jpg
+3562,4,parking place,opened,960,1280,photo_70_2024-12-19_02-00-05.jpg,dataset_top12\parking place\opened\photo_70_2024-12-19_02-00-05.jpg
+22,0,pedestrian crossing,opened,960,1280,photo_10_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\opened\photo_10_2024-12-18_13-06-32.jpg
+2731,2,tow truck,opened,420,395,photo_16_2024-12-19_02-03-02.jpg,dataset_top12\tow truck\opened\photo_16_2024-12-19_02-03-02.jpg
+141,0,pedestrian crossing,opened,787,774,photo_20_2024-12-18_02-28-33.jpg,dataset_top12\pedestrian crossing\opened\photo_20_2024-12-18_02-28-33.jpg
+3626,4,parking place,opened,960,1280,photo_97_2024-12-18_12-58-24.jpg,dataset_top12\parking place\opened\photo_97_2024-12-18_12-58-24.jpg
+559,0,pedestrian crossing,opened,960,1280,photo_64_2024-12-18_02-33-06.jpg,dataset_top12\pedestrian crossing\opened\photo_64_2024-12-18_02-33-06.jpg
+2355,1,give way,opened,960,1280,photo_89_2024-12-18_12-58-24.jpg,dataset_top12\give way\opened\photo_89_2024-12-18_12-58-24.jpg
+2221,1,give way,opened,960,1280,photo_31_2024-12-18_13-01-24.jpg,dataset_top12\give way\opened\photo_31_2024-12-18_13-01-24.jpg
+4849,10,bus stop,opened,960,1280,photo_3_2024-12-18_13-07-03.jpg,dataset_top12\bus stop\opened\photo_3_2024-12-18_13-07-03.jpg
+4512,8,right,opened,361,388,photo_30_2024-04-25_12-20-30.jpg,dataset_top12\right\opened\photo_30_2024-04-25_12-20-30.jpg
+4064,6,left,opened,339,382,photo_38_2024-04-25_12-43-13.jpg,dataset_top12\left\opened\photo_38_2024-04-25_12-43-13.jpg
+2115,0,pedestrian crossing,closed,960,1280,photo_97_2024-12-05_22-22-53.jpg,dataset_top12\pedestrian crossing\closed\photo_97_2024-12-05_22-22-53.jpg
+4768,9,straight,opened,620,626,photo_4_2024-12-09_12-46-32_1.jpg,dataset_top12\straight\opened\photo_4_2024-12-09_12-46-32_1.jpg
+668,0,pedestrian crossing,opened,960,1280,photo_75_2024-12-18_13-03-52.jpg,dataset_top12\pedestrian crossing\opened\photo_75_2024-12-18_13-03-52.jpg
+4922,10,bus stop,closed,960,1280,photo_30_2024-12-05_22-23-50.jpg,dataset_top12\bus stop\closed\photo_30_2024-12-05_22-23-50.jpg
+1879,0,pedestrian crossing,closed,960,1280,photo_72_2024-12-07_12-49-18.jpg,dataset_top12\pedestrian crossing\closed\photo_72_2024-12-07_12-49-18.jpg
+4124,6,left,opened,200,198,photo_88_2024-04-25_12-41-13.jpg,dataset_top12\left\opened\photo_88_2024-04-25_12-41-13.jpg
+1848,0,pedestrian crossing,closed,960,1280,photo_6_2024-12-06_22-25-52.jpg,dataset_top12\pedestrian crossing\closed\photo_6_2024-12-06_22-25-52.jpg
+303,0,pedestrian crossing,opened,960,1280,photo_35_2024-12-19_00-11-08.jpg,dataset_top12\pedestrian crossing\opened\photo_35_2024-12-19_00-11-08.jpg
+2322,1,give way,opened,510,551,photo_77_2024-12-19_02-00-53.jpg,dataset_top12\give way\opened\photo_77_2024-12-19_02-00-53.jpg
+1525,0,pedestrian crossing,closed,960,1280,photo_5278624148517676449_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676449_y.jpg
+2569,1,give way,closed,720,1280,photo_5278624148517676533_y.jpg,dataset_top12\give way\closed\photo_5278624148517676533_y.jpg
+1675,0,pedestrian crossing,closed,960,1280,photo_52_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_52_2024-12-07_12-48-02.jpg
+4790,9,straight,opened,520,513,photo_76_2024-11-28_18-39-35.jpg,dataset_top12\straight\opened\photo_76_2024-11-28_18-39-35.jpg
+4723,9,straight,opened,278,307,photo_2_2024-04-25_12-43-13_straight.jpg,dataset_top12\straight\opened\photo_2_2024-04-25_12-43-13_straight.jpg
+4748,9,straight,opened,568,571,photo_47_2024-12-09_12-49-48_2.jpg,dataset_top12\straight\opened\photo_47_2024-12-09_12-49-48_2.jpg
+3667,5,maximum speed limit_40,opened,571,609,photo_10_2024-12-18_02-22-39.jpg,dataset_top12\maximum speed limit_40\opened\photo_10_2024-12-18_02-22-39.jpg
+1695,0,pedestrian crossing,closed,960,1280,photo_55_2024-10-29_09-54-21.jpg,dataset_top12\pedestrian crossing\closed\photo_55_2024-10-29_09-54-21.jpg
+63,0,pedestrian crossing,opened,960,1280,photo_14_2024-12-18_13-03-52.jpg,dataset_top12\pedestrian crossing\opened\photo_14_2024-12-18_13-03-52.jpg
+2701,1,give way,closed,1280,830,photo_95_2024-12-05_22-23-25.jpg,dataset_top12\give way\closed\photo_95_2024-12-05_22-23-25.jpg
+379,0,pedestrian crossing,opened,960,1280,photo_41_2024-12-18_13-02-04.jpg,dataset_top12\pedestrian crossing\opened\photo_41_2024-12-18_13-02-04.jpg
+1662,0,pedestrian crossing,closed,720,1280,photo_5278624148517676786_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676786_y.jpg
+613,0,pedestrian crossing,opened,960,1280,photo_6_2024-12-09_12-50-33.jpg,dataset_top12\pedestrian crossing\opened\photo_6_2024-12-09_12-50-33.jpg
+2612,1,give way,closed,759,663,photo_53_2024-12-19_00-10-31.jpg,dataset_top12\give way\closed\photo_53_2024-12-19_00-10-31.jpg
+2710,1,give way,closed,960,1280,photo_99_2024-12-07_12-48-02.jpg,dataset_top12\give way\closed\photo_99_2024-12-07_12-48-02.jpg
+4037,6,left,opened,156,162,photo_27_2024-04-25_12-41-12.jpg,dataset_top12\left\opened\photo_27_2024-04-25_12-41-12.jpg
+2101,0,pedestrian crossing,closed,960,1280,photo_94_2024-12-05_22-22-53.jpg,dataset_top12\pedestrian crossing\closed\photo_94_2024-12-05_22-22-53.jpg
+4778,9,straight,opened,602,603,photo_5_2024-04-25_12-41-12.jpg,dataset_top12\straight\opened\photo_5_2024-04-25_12-41-12.jpg
+2508,1,give way,closed,960,1280,photo_32_2024-12-07_12-47-32.jpg,dataset_top12\give way\closed\photo_32_2024-12-07_12-47-32.jpg
+3235,3,no stopping,closed,2547,2486,20241102_122129_1.jpg,dataset_top12\no stopping\closed\20241102_122129_1.jpg
+3956,6,left,opened,385,660,IMG_0789.JPG,dataset_top12\left\opened\IMG_0789.JPG
+4856,10,bus stop,opened,960,1280,photo_52_2024-12-18_02-27-47.jpg,dataset_top12\bus stop\opened\photo_52_2024-12-18_02-27-47.jpg
+4201,7,stop line,opened,749,755,photo_22_2024-12-18_13-01-24.jpg,dataset_top12\stop line\opened\photo_22_2024-12-18_13-01-24.jpg
+4318,7,stop line,opened,556,567,photo_89_2024-12-18_02-28-33.jpg,dataset_top12\stop line\opened\photo_89_2024-12-18_02-28-33.jpg
+2739,2,tow truck,opened,553,550,photo_19_2024-12-19_01-58-39.jpg,dataset_top12\tow truck\opened\photo_19_2024-12-19_01-58-39.jpg
+2828,2,tow truck,opened,653,651,photo_41_2024-12-19_02-03-02.jpg,dataset_top12\tow truck\opened\photo_41_2024-12-19_02-03-02.jpg
+5035,11,no entry,opened,960,1280,photo_20_2024-12-18_02-17-59.jpg,dataset_top12\no entry\opened\photo_20_2024-12-18_02-17-59.jpg
+4192,7,stop line,opened,799,831,photo_1_2024-12-18_02-11-31.jpg,dataset_top12\stop line\opened\photo_1_2024-12-18_02-11-31.jpg
+4615,8,right,opened,236,311,photo_8_2024-04-25_12-43-13_9.jpg,dataset_top12\right\opened\photo_8_2024-04-25_12-43-13_9.jpg
+4959,10,bus stop,closed,946,1280,photo_45_2024-12-07_12-46-04.jpg,dataset_top12\bus stop\closed\photo_45_2024-12-07_12-46-04.jpg
+280,0,pedestrian crossing,opened,960,1280,photo_33_2024-12-18_13-04-36.jpg,dataset_top12\pedestrian crossing\opened\photo_33_2024-12-18_13-04-36.jpg
+789,0,pedestrian crossing,opened,960,1280,photo_89_2024-12-18_13-05-23.jpg,dataset_top12\pedestrian crossing\opened\photo_89_2024-12-18_13-05-23.jpg
+3979,6,left,opened,440,655,IMG_0834.JPG,dataset_top12\left\opened\IMG_0834.JPG
+751,0,pedestrian crossing,opened,960,1280,photo_84_2024-12-09_12-46-01.jpg,dataset_top12\pedestrian crossing\opened\photo_84_2024-12-09_12-46-01.jpg
+3303,3,no stopping,closed,1123,830,photo_67_2024-12-07_12-46-04.jpg,dataset_top12\no stopping\closed\photo_67_2024-12-07_12-46-04.jpg
+3563,4,parking place,opened,960,1280,photo_71_2024-12-18_02-33-06.jpg,dataset_top12\parking place\opened\photo_71_2024-12-18_02-33-06.jpg
+4073,6,left,opened,188,190,photo_41_2024-04-25_12-20-30.jpg,dataset_top12\left\opened\photo_41_2024-04-25_12-20-30.jpg
+3625,4,parking place,opened,960,1280,photo_96_2024-12-19_02-00-05.jpg,dataset_top12\parking place\opened\photo_96_2024-12-19_02-00-05.jpg
+287,0,pedestrian crossing,opened,960,1280,photo_34_2024-12-18_02-33-06.jpg,dataset_top12\pedestrian crossing\opened\photo_34_2024-12-18_02-33-06.jpg
+3731,5,maximum speed limit_40,opened,769,711,photo_42_2024-12-18_13-01-24.jpg,dataset_top12\maximum speed limit_40\opened\photo_42_2024-12-18_13-01-24.jpg
+788,0,pedestrian crossing,opened,960,1280,photo_89_2024-12-18_13-03-52.jpg,dataset_top12\pedestrian crossing\opened\photo_89_2024-12-18_13-03-52.jpg
+380,0,pedestrian crossing,opened,960,1280,photo_41_2024-12-18_13-03-52.jpg,dataset_top12\pedestrian crossing\opened\photo_41_2024-12-18_13-03-52.jpg
+3677,5,maximum speed limit_40,opened,960,910,photo_13_2024-12-18_02-10-22.jpg,dataset_top12\maximum speed limit_40\opened\photo_13_2024-12-18_02-10-22.jpg
+2084,0,pedestrian crossing,closed,960,1280,photo_92_2024-12-05_22-22-53.jpg,dataset_top12\pedestrian crossing\closed\photo_92_2024-12-05_22-22-53.jpg
+3304,3,no stopping,closed,960,1280,photo_67_2024-12-09_12-45-24.jpg,dataset_top12\no stopping\closed\photo_67_2024-12-09_12-45-24.jpg
+4132,6,left,opened,155,215,photo_8_2024-04-25_12-20-30_3.jpg,dataset_top12\left\opened\photo_8_2024-04-25_12-20-30_3.jpg
+3389,4,parking place,opened,960,1280,photo_18_2024-12-19_02-00-05.jpg,dataset_top12\parking place\opened\photo_18_2024-12-19_02-00-05.jpg
+1237,0,pedestrian crossing,closed,960,1280,photo_33_2024-12-06_22-25-52.jpg,dataset_top12\pedestrian crossing\closed\photo_33_2024-12-06_22-25-52.jpg
+4202,7,stop line,opened,960,1280,photo_23_2024-12-18_02-25-50.jpg,dataset_top12\stop line\opened\photo_23_2024-12-18_02-25-50.jpg
+813,0,pedestrian crossing,opened,960,1280,photo_91_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\opened\photo_91_2024-12-18_13-06-32.jpg
+3759,5,maximum speed limit_40,opened,540,508,photo_50_2024-12-19_02-03-02.jpg,dataset_top12\maximum speed limit_40\opened\photo_50_2024-12-19_02-03-02.jpg
+4591,8,right,opened,544,444,photo_72_2024-04-25_12-41-12.jpg,dataset_top12\right\opened\photo_72_2024-04-25_12-41-12.jpg
+1988,0,pedestrian crossing,closed,960,1280,photo_83_2024-10-29_09-53-08.jpg,dataset_top12\pedestrian crossing\closed\photo_83_2024-10-29_09-53-08.jpg
+257,0,pedestrian crossing,opened,960,1280,photo_30_2024-12-19_00-11-08.jpg,dataset_top12\pedestrian crossing\opened\photo_30_2024-12-19_00-11-08.jpg
+3828,5,maximum speed limit_40,opened,553,574,photo_8_2024-12-18_02-22-39.jpg,dataset_top12\maximum speed limit_40\opened\photo_8_2024-12-18_02-22-39.jpg
+3894,5,maximum speed limit_40,closed,1280,543,photo_57_2024-12-05_22-22-53.jpg,dataset_top12\maximum speed limit_40\closed\photo_57_2024-12-05_22-22-53.jpg
+4574,8,right,opened,452,487,photo_62_2024-12-19_02-00-05.jpg,dataset_top12\right\opened\photo_62_2024-12-19_02-00-05.jpg
+3043,3,no stopping,opened,2187,2338,IMG_20241017_161856_1.jpg,dataset_top12\no stopping\opened\IMG_20241017_161856_1.jpg
+5039,11,no entry,opened,960,1280,photo_23_2024-12-09_12-46-01.jpg,dataset_top12\no entry\opened\photo_23_2024-12-09_12-46-01.jpg
+1685,0,pedestrian crossing,closed,960,1280,photo_53_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_53_2024-12-07_12-48-02.jpg
+2762,2,tow truck,opened,830,799,photo_24_2024-12-18_02-33-06.jpg,dataset_top12\tow truck\opened\photo_24_2024-12-18_02-33-06.jpg
+1858,0,pedestrian crossing,closed,1280,1220,photo_70_2024-12-07_12-46-04.jpg,dataset_top12\pedestrian crossing\closed\photo_70_2024-12-07_12-46-04.jpg
+117,0,pedestrian crossing,opened,960,1280,photo_19_2024-12-18_02-27-47.jpg,dataset_top12\pedestrian crossing\opened\photo_19_2024-12-18_02-27-47.jpg
+1697,0,pedestrian crossing,closed,960,1280,photo_55_2024-12-06_22-24-57.jpg,dataset_top12\pedestrian crossing\closed\photo_55_2024-12-06_22-24-57.jpg
+1180,0,pedestrian crossing,closed,960,1280,photo_28_2024-12-07_12-48-36.jpg,dataset_top12\pedestrian crossing\closed\photo_28_2024-12-07_12-48-36.jpg
+4332,7,stop line,closed,1165,1104,20241102_114835.jpg,dataset_top12\stop line\closed\20241102_114835.jpg
+1965,0,pedestrian crossing,closed,960,1280,photo_80_2024-12-07_12-48-37.jpg,dataset_top12\pedestrian crossing\closed\photo_80_2024-12-07_12-48-37.jpg
+1154,0,pedestrian crossing,closed,960,1280,photo_25_2024-12-07_12-49-18.jpg,dataset_top12\pedestrian crossing\closed\photo_25_2024-12-07_12-49-18.jpg
+2385,1,give way,opened,595,564,photo_9_2024-12-19_02-00-53.jpg,dataset_top12\give way\opened\photo_9_2024-12-19_02-00-53.jpg
+343,0,pedestrian crossing,opened,920,915,photo_39_2024-12-18_13-00-25.jpg,dataset_top12\pedestrian crossing\opened\photo_39_2024-12-18_13-00-25.jpg
+3867,5,maximum speed limit_40,closed,1280,680,photo_20_2024-12-05_22-22-53.jpg,dataset_top12\maximum speed limit_40\closed\photo_20_2024-12-05_22-22-53.jpg
+2024,0,pedestrian crossing,closed,960,1280,photo_86_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_86_2024-12-07_12-48-02.jpg
+2439,1,give way,closed,2102,2163,IMG_20241029_181813.jpg,dataset_top12\give way\closed\IMG_20241029_181813.jpg
+375,0,pedestrian crossing,opened,960,1280,photo_41_2024-12-09_12-46-32.jpg,dataset_top12\pedestrian crossing\opened\photo_41_2024-12-09_12-46-32.jpg
+2864,2,tow truck,opened,580,576,photo_56_2024-12-09_12-46-32.jpg,dataset_top12\tow truck\opened\photo_56_2024-12-09_12-46-32.jpg
+3736,5,maximum speed limit_40,opened,614,622,photo_44_2024-12-18_02-22-06.jpg,dataset_top12\maximum speed limit_40\opened\photo_44_2024-12-18_02-22-06.jpg
+4690,9,straight,opened,960,1280,photo_14_2024-12-06_22-24-22.jpg,dataset_top12\straight\opened\photo_14_2024-12-06_22-24-22.jpg
+3698,5,maximum speed limit_40,opened,574,623,photo_25_2024-12-18_02-22-06.jpg,dataset_top12\maximum speed limit_40\opened\photo_25_2024-12-18_02-22-06.jpg
+2917,2,tow truck,opened,328,331,photo_76_2024-12-09_12-49-48.jpg,dataset_top12\tow truck\opened\photo_76_2024-12-09_12-49-48.jpg
+4016,6,left,opened,532,534,photo_1_2024-12-19_02-04-54.jpg,dataset_top12\left\opened\photo_1_2024-12-19_02-04-54.jpg
+3572,4,parking place,opened,960,1280,photo_74_2024-12-19_01-59-18.jpg,dataset_top12\parking place\opened\photo_74_2024-12-19_01-59-18.jpg
+734,0,pedestrian crossing,opened,730,724,photo_82_2024-12-09_12-49-48.jpg,dataset_top12\pedestrian crossing\opened\photo_82_2024-12-09_12-49-48.jpg
+1628,0,pedestrian crossing,closed,722,1280,photo_5278624148517676746_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676746_y.jpg
+4889,10,bus stop,closed,960,1280,photo_10_2024-12-09_12-45-24.jpg,dataset_top12\bus stop\closed\photo_10_2024-12-09_12-45-24.jpg
+3708,5,maximum speed limit_40,opened,595,548,photo_30_2024-12-18_02-25-50.jpg,dataset_top12\maximum speed limit_40\opened\photo_30_2024-12-18_02-25-50.jpg
+1794,0,pedestrian crossing,closed,719,711,photo_64_2024-12-07_12-51-07.jpg,dataset_top12\pedestrian crossing\closed\photo_64_2024-12-07_12-51-07.jpg
+3552,4,parking place,opened,960,1280,photo_68_2024-12-19_02-00-05.jpg,dataset_top12\parking place\opened\photo_68_2024-12-19_02-00-05.jpg
+4383,7,stop line,closed,748,844,photo_54_2024-12-06_22-24-57.jpg,dataset_top12\stop line\closed\photo_54_2024-12-06_22-24-57.jpg
+612,0,pedestrian crossing,opened,960,1280,photo_69_2024-12-19_02-04-55.jpg,dataset_top12\pedestrian crossing\opened\photo_69_2024-12-19_02-04-55.jpg
+1473,0,pedestrian crossing,closed,960,1280,photo_5278624148517676352_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676352_y.jpg
+3638,4,parking place,closed,960,1280,photo_12_2024-12-09_12-46-01.jpg,dataset_top12\parking place\closed\photo_12_2024-12-09_12-46-01.jpg
+1213,0,pedestrian crossing,closed,960,1280,photo_30_2024-12-07_12-47-32.jpg,dataset_top12\pedestrian crossing\closed\photo_30_2024-12-07_12-47-32.jpg
+2158,1,give way,opened,445,447,photo_15_2024-12-09_12-46-01.jpg,dataset_top12\give way\opened\photo_15_2024-12-09_12-46-01.jpg
+7,0,pedestrian crossing,opened,960,1280,photo_100_2024-12-18_13-05-57.jpg,dataset_top12\pedestrian crossing\opened\photo_100_2024-12-18_13-05-57.jpg
+4161,6,left,closed,300,301,photo_54_2024-11-28_18-39-35.jpg,dataset_top12\left\closed\photo_54_2024-11-28_18-39-35.jpg
+4737,9,straight,opened,564,569,photo_3_2024-05-17_15-34-29_3.jpg,dataset_top12\straight\opened\photo_3_2024-05-17_15-34-29_3.jpg
+4943,10,bus stop,closed,1280,1275,photo_39_2024-12-07_12-46-04.jpg,dataset_top12\bus stop\closed\photo_39_2024-12-07_12-46-04.jpg
+3560,4,parking place,opened,960,1280,photo_70_2024-12-18_13-03-52.jpg,dataset_top12\parking place\opened\photo_70_2024-12-18_13-03-52.jpg
+64,0,pedestrian crossing,opened,960,966,photo_14_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\opened\photo_14_2024-12-18_13-06-32.jpg
+959,0,pedestrian crossing,closed,4640,3472,IMG_20241029_174323.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_174323.jpg
+3769,5,maximum speed limit_40,opened,620,598,photo_53_2024-12-18_02-22-06.jpg,dataset_top12\maximum speed limit_40\opened\photo_53_2024-12-18_02-22-06.jpg
+4641,9,straight,opened,823,922,IMG_0762_7.JPG,dataset_top12\straight\opened\IMG_0762_7.JPG
+3327,3,no stopping,closed,1280,905,photo_82_2024-12-05_22-23-10.jpg,dataset_top12\no stopping\closed\photo_82_2024-12-05_22-23-10.jpg
+3009,2,tow truck,closed,1280,1015,photo_63_2024-12-05_22-23-25.jpg,dataset_top12\tow truck\closed\photo_63_2024-12-05_22-23-25.jpg
+1435,0,pedestrian crossing,closed,886,854,photo_51_2024-12-09_12-46-01.jpg,dataset_top12\pedestrian crossing\closed\photo_51_2024-12-09_12-46-01.jpg
+4841,10,bus stop,opened,522,518,photo_26_2024-12-09_12-49-48.jpg,dataset_top12\bus stop\opened\photo_26_2024-12-09_12-49-48.jpg
+4406,7,stop line,closed,960,1280,photo_85_2024-12-05_22-23-25.jpg,dataset_top12\stop line\closed\photo_85_2024-12-05_22-23-25.jpg
+3038,2,tow truck,closed,373,373,photo_93_2024-12-09_12-45-24.jpg,dataset_top12\tow truck\closed\photo_93_2024-12-09_12-45-24.jpg
+4586,8,right,opened,145,212,photo_6_2024-04-25_12-43-13_0.jpg,dataset_top12\right\opened\photo_6_2024-04-25_12-43-13_0.jpg
+1979,0,pedestrian crossing,closed,960,1011,photo_82_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_82_2024-10-29_09-53-51.jpg
+349,0,pedestrian crossing,opened,960,1280,photo_39_2024-12-19_00-11-08.jpg,dataset_top12\pedestrian crossing\opened\photo_39_2024-12-19_00-11-08.jpg
+279,0,pedestrian crossing,opened,960,1280,photo_33_2024-12-18_13-03-52.jpg,dataset_top12\pedestrian crossing\opened\photo_33_2024-12-18_13-03-52.jpg
+3255,3,no stopping,closed,1280,1147,photo_18_2024-12-06_22-25-22.jpg,dataset_top12\no stopping\closed\photo_18_2024-12-06_22-25-22.jpg
+124,0,pedestrian crossing,opened,960,1280,photo_19_2024-12-19_00-10-31.jpg,dataset_top12\pedestrian crossing\opened\photo_19_2024-12-19_00-10-31.jpg
+1035,0,pedestrian crossing,closed,960,1280,photo_13_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_13_2024-10-29_09-53-51.jpg
+4247,7,stop line,opened,960,1280,photo_43_2024-12-18_13-00-25.jpg,dataset_top12\stop line\opened\photo_43_2024-12-18_13-00-25.jpg
+1429,0,pedestrian crossing,closed,1098,1280,photo_51_2024-12-05_22-23-25.jpg,dataset_top12\pedestrian crossing\closed\photo_51_2024-12-05_22-23-25.jpg
+82,0,pedestrian crossing,opened,747,704,photo_16_2024-12-18_12-58-24.jpg,dataset_top12\pedestrian crossing\opened\photo_16_2024-12-18_12-58-24.jpg
+1985,0,pedestrian crossing,closed,960,1280,photo_82_2024-12-07_12-48-37.jpg,dataset_top12\pedestrian crossing\closed\photo_82_2024-12-07_12-48-37.jpg
+1557,0,pedestrian crossing,closed,960,1280,photo_5278624148517676608_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676608_y.jpg
+364,0,pedestrian crossing,opened,960,1280,photo_40_2024-12-18_02-27-47.jpg,dataset_top12\pedestrian crossing\opened\photo_40_2024-12-18_02-27-47.jpg
+669,0,pedestrian crossing,opened,960,1280,photo_75_2024-12-18_13-05-23.jpg,dataset_top12\pedestrian crossing\opened\photo_75_2024-12-18_13-05-23.jpg
+1834,0,pedestrian crossing,closed,960,1280,photo_69_2024-10-29_09-53-08.jpg,dataset_top12\pedestrian crossing\closed\photo_69_2024-10-29_09-53-08.jpg
+1500,0,pedestrian crossing,closed,960,1280,photo_5278624148517676393_y (1).jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676393_y (1).jpg
+3538,4,parking place,opened,960,1280,photo_63_2024-12-18_13-01-24.jpg,dataset_top12\parking place\opened\photo_63_2024-12-18_13-01-24.jpg
+2089,0,pedestrian crossing,closed,960,1280,photo_92_2024-12-07_12-51-07.jpg,dataset_top12\pedestrian crossing\closed\photo_92_2024-12-07_12-51-07.jpg
+3121,3,no stopping,opened,960,1280,photo_56_2024-12-18_13-03-52.jpg,dataset_top12\no stopping\opened\photo_56_2024-12-18_13-03-52.jpg
+2337,1,give way,opened,515,546,photo_81_2024-12-19_02-00-53.jpg,dataset_top12\give way\opened\photo_81_2024-12-19_02-00-53.jpg
+4960,10,bus stop,closed,960,1280,photo_46_2024-10-29_09-54-21.jpg,dataset_top12\bus stop\closed\photo_46_2024-10-29_09-54-21.jpg
+3510,4,parking place,opened,960,1280,photo_56_2024-12-19_02-00-05.jpg,dataset_top12\parking place\opened\photo_56_2024-12-19_02-00-05.jpg
+1482,0,pedestrian crossing,closed,960,1280,photo_5278624148517676365_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676365_y.jpg
+774,0,pedestrian crossing,opened,960,1280,photo_87_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\opened\photo_87_2024-12-18_13-06-32.jpg
+81,0,pedestrian crossing,opened,960,1280,photo_16_2024-12-18_02-33-06.jpg,dataset_top12\pedestrian crossing\opened\photo_16_2024-12-18_02-33-06.jpg
+4206,7,stop line,opened,741,854,photo_26_2024-12-18_02-11-31.jpg,dataset_top12\stop line\opened\photo_26_2024-12-18_02-11-31.jpg
+4927,10,bus stop,closed,960,1280,photo_31_2024-12-09_12-45-24.jpg,dataset_top12\bus stop\closed\photo_31_2024-12-09_12-45-24.jpg
+3226,3,no stopping,closed,2411,2551,20241102_120059.jpg,dataset_top12\no stopping\closed\20241102_120059.jpg
+2088,0,pedestrian crossing,closed,960,1280,photo_92_2024-12-07_12-49-18.jpg,dataset_top12\pedestrian crossing\closed\photo_92_2024-12-07_12-49-18.jpg
+3582,4,parking place,opened,960,1280,photo_78_2024-12-19_01-59-18.jpg,dataset_top12\parking place\opened\photo_78_2024-12-19_01-59-18.jpg
+4075,6,left,opened,69,71,photo_42_2024-04-25_12-41-12_0.jpg,dataset_top12\left\opened\photo_42_2024-04-25_12-41-12_0.jpg
+3065,3,no stopping,opened,960,1280,photo_17_2024-12-18_13-00-25.jpg,dataset_top12\no stopping\opened\photo_17_2024-12-18_13-00-25.jpg
+3762,5,maximum speed limit_40,opened,464,508,photo_5278624148517676528_y.jpg,dataset_top12\maximum speed limit_40\opened\photo_5278624148517676528_y.jpg
+1823,0,pedestrian crossing,closed,960,1280,photo_67_2024-12-07_12-51-07.jpg,dataset_top12\pedestrian crossing\closed\photo_67_2024-12-07_12-51-07.jpg
+1885,0,pedestrian crossing,closed,960,1280,photo_73_2024-12-06_22-25-52.jpg,dataset_top12\pedestrian crossing\closed\photo_73_2024-12-06_22-25-52.jpg
+4552,8,right,opened,191,197,photo_43_2024-04-25_12-43-13.jpg,dataset_top12\right\opened\photo_43_2024-04-25_12-43-13.jpg
+540,0,pedestrian crossing,opened,960,1280,photo_62_2024-12-18_02-17-32.jpg,dataset_top12\pedestrian crossing\opened\photo_62_2024-12-18_02-17-32.jpg
+4504,8,right,opened,188,180,photo_2_2024-04-25_12-20-30_9.jpg,dataset_top12\right\opened\photo_2_2024-04-25_12-20-30_9.jpg
+2680,1,give way,closed,1255,1280,photo_85_2024-12-07_12-48-02.jpg,dataset_top12\give way\closed\photo_85_2024-12-07_12-48-02.jpg
+3213,3,no stopping,closed,2253,2349,20241102_113046_1.jpg,dataset_top12\no stopping\closed\20241102_113046_1.jpg
+1134,0,pedestrian crossing,closed,960,1280,photo_23_2024-12-07_12-48-36.jpg,dataset_top12\pedestrian crossing\closed\photo_23_2024-12-07_12-48-36.jpg
+551,0,pedestrian crossing,opened,960,1280,photo_63_2024-12-18_02-33-06.jpg,dataset_top12\pedestrian crossing\opened\photo_63_2024-12-18_02-33-06.jpg
+3155,3,no stopping,opened,960,1280,photo_73_2024-12-18_02-19-24.jpg,dataset_top12\no stopping\opened\photo_73_2024-12-18_02-19-24.jpg
+2315,1,give way,opened,530,528,photo_73_2024-12-19_02-00-53.jpg,dataset_top12\give way\opened\photo_73_2024-12-19_02-00-53.jpg
+2273,1,give way,opened,960,872,photo_55_2024-12-18_13-02-04.jpg,dataset_top12\give way\opened\photo_55_2024-12-18_13-02-04.jpg
+3803,5,maximum speed limit_40,opened,810,742,photo_75_2024-12-18_02-27-08.jpg,dataset_top12\maximum speed limit_40\opened\photo_75_2024-12-18_02-27-08.jpg
+2602,1,give way,closed,587,694,photo_5278624148517676707_y.jpg,dataset_top12\give way\closed\photo_5278624148517676707_y.jpg
+3887,5,maximum speed limit_40,closed,393,360,photo_5278624148517676792_y_1.jpg,dataset_top12\maximum speed limit_40\closed\photo_5278624148517676792_y_1.jpg
+2993,2,tow truck,closed,799,572,photo_2_2024-12-07_12-46-04.jpg,dataset_top12\tow truck\closed\photo_2_2024-12-07_12-46-04.jpg
+2817,2,tow truck,opened,643,585,photo_39_2024-12-19_02-03-02.jpg,dataset_top12\tow truck\opened\photo_39_2024-12-19_02-03-02.jpg
+1194,0,pedestrian crossing,closed,960,1280,photo_2_2024-10-29_09-54-21.jpg,dataset_top12\pedestrian crossing\closed\photo_2_2024-10-29_09-54-21.jpg
+3343,3,no stopping,closed,1280,1187,photo_8_2024-12-07_12-46-52.jpg,dataset_top12\no stopping\closed\photo_8_2024-12-07_12-46-52.jpg
+4989,10,bus stop,closed,960,1280,photo_72_2024-12-07_12-51-07.jpg,dataset_top12\bus stop\closed\photo_72_2024-12-07_12-51-07.jpg
+3445,4,parking place,opened,960,1280,photo_31_2024-12-18_13-06-32.jpg,dataset_top12\parking place\opened\photo_31_2024-12-18_13-06-32.jpg
+2125,0,pedestrian crossing,closed,960,1280,photo_99_2024-12-06_22-24-22.jpg,dataset_top12\pedestrian crossing\closed\photo_99_2024-12-06_22-24-22.jpg
+4855,10,bus stop,opened,720,1280,photo_5278624148517676486_y.jpg,dataset_top12\bus stop\opened\photo_5278624148517676486_y.jpg
+3890,5,maximum speed limit_40,closed,1280,512,photo_54_2024-12-05_22-22-53.jpg,dataset_top12\maximum speed limit_40\closed\photo_54_2024-12-05_22-22-53.jpg
+5095,11,no entry,opened,960,1280,photo_52_2024-12-18_13-05-23.jpg,dataset_top12\no entry\opened\photo_52_2024-12-18_13-05-23.jpg
+2058,0,pedestrian crossing,closed,960,1280,photo_8_2024-10-29_09-54-37.jpg,dataset_top12\pedestrian crossing\closed\photo_8_2024-10-29_09-54-37.jpg
+604,0,pedestrian crossing,opened,960,1280,photo_68_2024-12-19_02-04-55.jpg,dataset_top12\pedestrian crossing\opened\photo_68_2024-12-19_02-04-55.jpg
+4746,9,straight,opened,493,583,photo_45_2024-04-25_12-41-12.jpg,dataset_top12\straight\opened\photo_45_2024-04-25_12-41-12.jpg
+1270,0,pedestrian crossing,closed,960,1280,photo_36_2024-12-18_02-36-53.jpg,dataset_top12\pedestrian crossing\closed\photo_36_2024-12-18_02-36-53.jpg
+4300,7,stop line,opened,778,872,photo_6_2024-12-18_13-05-23.jpg,dataset_top12\stop line\opened\photo_6_2024-12-18_13-05-23.jpg
+5127,11,no entry,opened,506,506,photo_76_2024-12-18_02-25-50.jpg,dataset_top12\no entry\opened\photo_76_2024-12-18_02-25-50.jpg
+2263,1,give way,opened,710,885,photo_4_2024-12-18_13-03-52.jpg,dataset_top12\give way\opened\photo_4_2024-12-18_13-03-52.jpg
+2618,1,give way,closed,1280,1252,photo_56_2024-12-07_12-47-32.jpg,dataset_top12\give way\closed\photo_56_2024-12-07_12-47-32.jpg
+797,0,pedestrian crossing,opened,960,1130,photo_8_2024-12-18_13-05-57.jpg,dataset_top12\pedestrian crossing\opened\photo_8_2024-12-18_13-05-57.jpg
+5024,11,no entry,opened,960,1280,photo_15_2024-12-18_02-17-59.jpg,dataset_top12\no entry\opened\photo_15_2024-12-18_02-17-59.jpg
+4434,8,right,opened,822,946,IMG_0814.JPG,dataset_top12\right\opened\IMG_0814.JPG
+4086,6,left,opened,175,180,photo_48_2024-04-25_12-41-12.jpg,dataset_top12\left\opened\photo_48_2024-04-25_12-41-12.jpg
+2652,1,give way,closed,960,1280,photo_70_2024-12-06_22-24-57.jpg,dataset_top12\give way\closed\photo_70_2024-12-06_22-24-57.jpg
+1866,0,pedestrian crossing,closed,1280,1100,photo_71_2024-12-07_12-46-04.jpg,dataset_top12\pedestrian crossing\closed\photo_71_2024-12-07_12-46-04.jpg
+2122,0,pedestrian crossing,closed,960,1280,photo_98_2024-12-05_22-22-53.jpg,dataset_top12\pedestrian crossing\closed\photo_98_2024-12-05_22-22-53.jpg
+1941,0,pedestrian crossing,closed,960,1280,photo_79_2024-10-29_09-53-08.jpg,dataset_top12\pedestrian crossing\closed\photo_79_2024-10-29_09-53-08.jpg
+337,0,pedestrian crossing,opened,960,1280,photo_38_2024-12-18_13-05-23.jpg,dataset_top12\pedestrian crossing\opened\photo_38_2024-12-18_13-05-23.jpg
+4032,6,left,opened,376,448,photo_25_2024-04-25_12-20-30.jpg,dataset_top12\left\opened\photo_25_2024-04-25_12-20-30.jpg
+5120,11,no entry,opened,960,1280,photo_71_2024-12-18_13-06-32.jpg,dataset_top12\no entry\opened\photo_71_2024-12-18_13-06-32.jpg
+1486,0,pedestrian crossing,closed,704,752,photo_5278624148517676371_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676371_y.jpg
+4541,8,right,opened,130,197,photo_3_2024-04-25_12-20-30_9.jpg,dataset_top12\right\opened\photo_3_2024-04-25_12-20-30_9.jpg
+3480,4,parking place,opened,960,1280,photo_45_2024-12-19_02-00-05.jpg,dataset_top12\parking place\opened\photo_45_2024-12-19_02-00-05.jpg
+3491,4,parking place,opened,933,836,photo_4_2024-12-19_01-56-44.jpg,dataset_top12\parking place\opened\photo_4_2024-12-19_01-56-44.jpg
+3447,4,parking place,opened,960,1280,photo_32_2024-12-18_13-05-57.jpg,dataset_top12\parking place\opened\photo_32_2024-12-18_13-05-57.jpg
+3777,5,maximum speed limit_40,opened,702,714,photo_58_2024-12-19_01-58-39.jpg,dataset_top12\maximum speed limit_40\opened\photo_58_2024-12-19_01-58-39.jpg
+430,0,pedestrian crossing,opened,960,1280,photo_49_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\opened\photo_49_2024-12-18_13-06-32.jpg
+4155,6,left,closed,960,1280,photo_22_2024-12-06_22-24-22.jpg,dataset_top12\left\closed\photo_22_2024-12-06_22-24-22.jpg
+3220,3,no stopping,closed,1692,1630,20241102_114559_1.jpg,dataset_top12\no stopping\closed\20241102_114559_1.jpg
+370,0,pedestrian crossing,opened,960,1280,photo_40_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\opened\photo_40_2024-12-18_13-06-32.jpg
+3853,5,maximum speed limit_40,opened,621,576,photo_9_2024-12-19_02-03-02.jpg,dataset_top12\maximum speed limit_40\opened\photo_9_2024-12-19_02-03-02.jpg
+4426,8,right,opened,1200,1506,IMG_0802_8.JPG,dataset_top12\right\opened\IMG_0802_8.JPG
+3129,3,no stopping,opened,810,451,photo_60_2024-12-18_02-28-33.jpg,dataset_top12\no stopping\opened\photo_60_2024-12-18_02-28-33.jpg
+2483,1,give way,closed,1280,637,photo_21_2024-12-07_12-47-32.jpg,dataset_top12\give way\closed\photo_21_2024-12-07_12-47-32.jpg
+4184,7,stop line,opened,744,713,photo_13_2024-12-18_02-29-08.jpg,dataset_top12\stop line\opened\photo_13_2024-12-18_02-29-08.jpg
+300,0,pedestrian crossing,opened,960,1280,photo_35_2024-12-18_13-04-36.jpg,dataset_top12\pedestrian crossing\opened\photo_35_2024-12-18_13-04-36.jpg
+2744,2,tow truck,opened,424,422,photo_20_2024-12-09_12-46-01.jpg,dataset_top12\tow truck\opened\photo_20_2024-12-09_12-46-01.jpg
+4527,8,right,opened,314,354,photo_36_2024-04-25_12-20-30.jpg,dataset_top12\right\opened\photo_36_2024-04-25_12-20-30.jpg
+4830,10,bus stop,opened,1914,2052,IMG_20241017_161348_2.jpg,dataset_top12\bus stop\opened\IMG_20241017_161348_2.jpg
+505,0,pedestrian crossing,opened,960,1280,photo_58_2024-12-18_13-03-52.jpg,dataset_top12\pedestrian crossing\opened\photo_58_2024-12-18_13-03-52.jpg
+4485,8,right,opened,48,84,photo_21_2024-04-25_12-43-13_8.jpg,dataset_top12\right\opened\photo_21_2024-04-25_12-43-13_8.jpg
+2276,1,give way,opened,960,1280,photo_56_2024-12-18_02-33-06.jpg,dataset_top12\give way\opened\photo_56_2024-12-18_02-33-06.jpg
+4874,10,bus stop,closed,1097,1369,IMG_20241017_161236_1.jpg,dataset_top12\bus stop\closed\IMG_20241017_161236_1.jpg
+2109,0,pedestrian crossing,closed,960,1280,photo_96_2024-12-05_22-22-53.jpg,dataset_top12\pedestrian crossing\closed\photo_96_2024-12-05_22-22-53.jpg
+1635,0,pedestrian crossing,closed,720,1280,photo_5278624148517676753_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676753_y.jpg
+4971,10,bus stop,closed,960,1280,photo_5278624148517676497_y.jpg,dataset_top12\bus stop\closed\photo_5278624148517676497_y.jpg
+2054,0,pedestrian crossing,closed,960,1280,photo_8_2024-10-29_09-42-50.jpg,dataset_top12\pedestrian crossing\closed\photo_8_2024-10-29_09-42-50.jpg
+3752,5,maximum speed limit_40,opened,894,892,photo_4_2024-12-18_02-10-22.jpg,dataset_top12\maximum speed limit_40\opened\photo_4_2024-12-18_02-10-22.jpg
+3526,4,parking place,opened,960,1280,photo_5_2024-12-18_02-17-32.jpg,dataset_top12\parking place\opened\photo_5_2024-12-18_02-17-32.jpg
+3995,6,left,opened,322,343,photo_12_2024-11-28_18-39-35_1.jpg,dataset_top12\left\opened\photo_12_2024-11-28_18-39-35_1.jpg
+3026,2,tow truck,closed,871,386,photo_85_2024-12-07_12-46-04.jpg,dataset_top12\tow truck\closed\photo_85_2024-12-07_12-46-04.jpg
+902,0,pedestrian crossing,closed,4624,3468,20241102_115448.jpg,dataset_top12\pedestrian crossing\closed\20241102_115448.jpg
+1786,0,pedestrian crossing,closed,960,1280,photo_64_2024-10-29_09-53-08.jpg,dataset_top12\pedestrian crossing\closed\photo_64_2024-10-29_09-53-08.jpg
+359,0,pedestrian crossing,opened,960,1280,photo_3_2024-12-18_13-04-36.jpg,dataset_top12\pedestrian crossing\opened\photo_3_2024-12-18_13-04-36.jpg
+1807,0,pedestrian crossing,closed,960,1280,photo_66_2024-10-29_09-54-21.jpg,dataset_top12\pedestrian crossing\closed\photo_66_2024-10-29_09-54-21.jpg
+804,0,pedestrian crossing,opened,960,1280,photo_90_2024-12-18_12-58-24.jpg,dataset_top12\pedestrian crossing\opened\photo_90_2024-12-18_12-58-24.jpg
+1863,0,pedestrian crossing,closed,960,1280,photo_71_2024-10-29_09-42-50.jpg,dataset_top12\pedestrian crossing\closed\photo_71_2024-10-29_09-42-50.jpg
+109,0,pedestrian crossing,opened,960,1280,photo_18_2024-12-18_13-04-36.jpg,dataset_top12\pedestrian crossing\opened\photo_18_2024-12-18_13-04-36.jpg
+465,0,pedestrian crossing,opened,960,1280,photo_53_2024-12-18_02-17-32.jpg,dataset_top12\pedestrian crossing\opened\photo_53_2024-12-18_02-17-32.jpg
+634,0,pedestrian crossing,opened,960,1280,photo_71_2024-12-18_02-36-53.jpg,dataset_top12\pedestrian crossing\opened\photo_71_2024-12-18_02-36-53.jpg
+139,0,pedestrian crossing,opened,708,705,photo_20_2024-12-09_12-49-48.jpg,dataset_top12\pedestrian crossing\opened\photo_20_2024-12-09_12-49-48.jpg
+991,0,pedestrian crossing,closed,4640,3472,IMG_20241029_180425.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_180425.jpg
+4810,9,straight,opened,236,237,photo_8_2024-05-17_15-34-29.jpg,dataset_top12\straight\opened\photo_8_2024-05-17_15-34-29.jpg
+2325,1,give way,opened,557,584,photo_78_2024-12-19_02-00-53.jpg,dataset_top12\give way\opened\photo_78_2024-12-19_02-00-53.jpg
+3014,2,tow truck,closed,811,773,photo_74_2024-12-09_12-46-32.jpg,dataset_top12\tow truck\closed\photo_74_2024-12-09_12-46-32.jpg
+147,0,pedestrian crossing,opened,960,1280,photo_20_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\opened\photo_20_2024-12-18_13-06-32.jpg
+2971,2,tow truck,closed,1914,1896,20241102_120353.jpg,dataset_top12\tow truck\closed\20241102_120353.jpg
+1100,0,pedestrian crossing,closed,960,1280,photo_20_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_20_2024-10-29_09-53-51.jpg
+3709,5,maximum speed limit_40,opened,631,607,photo_30_2024-12-19_01-58-39.jpg,dataset_top12\maximum speed limit_40\opened\photo_30_2024-12-19_01-58-39.jpg
+4734,9,straight,opened,107,103,photo_3_2024-04-25_12-41-12_s_7.jpg,dataset_top12\straight\opened\photo_3_2024-04-25_12-41-12_s_7.jpg
+3652,4,parking place,closed,960,1280,photo_5278624148517676631_y.jpg,dataset_top12\parking place\closed\photo_5278624148517676631_y.jpg
+5015,11,no entry,opened,960,1280,photo_100_2024-12-18_13-00-25.jpg,dataset_top12\no entry\opened\photo_100_2024-12-18_13-00-25.jpg
+1854,0,pedestrian crossing,closed,960,1280,photo_70_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_70_2024-10-29_09-53-51.jpg
+2705,1,give way,closed,949,1280,photo_96_2024-12-07_12-47-32.jpg,dataset_top12\give way\closed\photo_96_2024-12-07_12-47-32.jpg
+2051,0,pedestrian crossing,closed,1280,1216,photo_89_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_89_2024-12-07_12-48-02.jpg
+4526,8,right,opened,160,164,photo_35_2024-04-25_12-43-13.jpg,dataset_top12\right\opened\photo_35_2024-04-25_12-43-13.jpg
+1409,0,pedestrian crossing,closed,960,1280,photo_4_2024-12-07_12-49-18.jpg,dataset_top12\pedestrian crossing\closed\photo_4_2024-12-07_12-49-18.jpg
+2525,1,give way,closed,1280,620,photo_39_2024-12-05_22-22-53.jpg,dataset_top12\give way\closed\photo_39_2024-12-05_22-22-53.jpg
+4218,7,stop line,opened,759,755,photo_29_2024-12-19_00-10-31.jpg,dataset_top12\stop line\opened\photo_29_2024-12-19_00-10-31.jpg
+4926,10,bus stop,closed,1280,1230,photo_31_2024-12-06_22-23-51.jpg,dataset_top12\bus stop\closed\photo_31_2024-12-06_22-23-51.jpg
+994,0,pedestrian crossing,closed,4640,3472,IMG_20241029_180518.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_180518.jpg
+4018,6,left,opened,64,80,photo_20_2024-04-25_12-43-13_0.jpg,dataset_top12\left\opened\photo_20_2024-04-25_12-43-13_0.jpg
+1289,0,pedestrian crossing,closed,960,1280,photo_39_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_39_2024-10-29_09-53-51.jpg
+978,0,pedestrian crossing,closed,4640,3472,IMG_20241029_175301.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_175301.jpg
+771,0,pedestrian crossing,opened,960,1280,photo_87_2024-12-18_13-01-24.jpg,dataset_top12\pedestrian crossing\opened\photo_87_2024-12-18_13-01-24.jpg
+4563,8,right,opened,575,611,photo_52_2024-12-19_02-04-55.jpg,dataset_top12\right\opened\photo_52_2024-12-19_02-04-55.jpg
+3611,4,parking place,opened,532,414,photo_90_2024-12-18_02-27-47.jpg,dataset_top12\parking place\opened\photo_90_2024-12-18_02-27-47.jpg
+1670,0,pedestrian crossing,closed,960,1280,photo_52_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_52_2024-10-29_09-53-51.jpg
+1877,0,pedestrian crossing,closed,1280,1181,photo_72_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_72_2024-12-07_12-48-02.jpg
+2367,1,give way,opened,960,1030,photo_93_2024-12-18_13-05-23.jpg,dataset_top12\give way\opened\photo_93_2024-12-18_13-05-23.jpg
+3982,6,left,opened,704,1000,IMG_20241017_183705_99.jpg,dataset_top12\left\opened\IMG_20241017_183705_99.jpg
+3987,6,left,opened,131,184,photo_11_2024-04-25_12-20-30_4.jpg,dataset_top12\left\opened\photo_11_2024-04-25_12-20-30_4.jpg
+2236,1,give way,opened,671,673,photo_37_2024-12-09_12-49-48.jpg,dataset_top12\give way\opened\photo_37_2024-12-09_12-49-48.jpg
+4656,9,straight,opened,513,675,IMG_0799_8.JPG,dataset_top12\straight\opened\IMG_0799_8.JPG
+5037,11,no entry,opened,960,1280,photo_22_2024-12-18_02-17-59.jpg,dataset_top12\no entry\opened\photo_22_2024-12-18_02-17-59.jpg
+2345,1,give way,opened,726,720,photo_86_2024-12-09_12-46-33.jpg,dataset_top12\give way\opened\photo_86_2024-12-09_12-46-33.jpg
+4140,6,left,closed,1281,1496,20241102_113833_7.jpg,dataset_top12\left\closed\20241102_113833_7.jpg
+3242,3,no stopping,closed,1174,1280,photo_10_2024-12-07_12-46-52.jpg,dataset_top12\no stopping\closed\photo_10_2024-12-07_12-46-52.jpg
+4882,10,bus stop,closed,4640,3472,IMG_20241017_182340.jpg,dataset_top12\bus stop\closed\IMG_20241017_182340.jpg
+419,0,pedestrian crossing,opened,960,1280,photo_48_2024-12-18_12-58-24.jpg,dataset_top12\pedestrian crossing\opened\photo_48_2024-12-18_12-58-24.jpg
+4277,7,stop line,opened,960,1000,photo_53_2024-12-18_13-02-04.jpg,dataset_top12\stop line\opened\photo_53_2024-12-18_13-02-04.jpg
+2235,1,give way,opened,960,1280,photo_36_2024-12-18_13-01-24.jpg,dataset_top12\give way\opened\photo_36_2024-12-18_13-01-24.jpg
+2856,2,tow truck,opened,614,652,photo_53_2024-12-19_02-00-05.jpg,dataset_top12\tow truck\opened\photo_53_2024-12-19_02-00-05.jpg
+2854,2,tow truck,opened,742,683,photo_53_2024-12-18_02-17-59.jpg,dataset_top12\tow truck\opened\photo_53_2024-12-18_02-17-59.jpg
+4603,8,right,opened,119,138,photo_7_2024-04-25_12-43-13_5.jpg,dataset_top12\right\opened\photo_7_2024-04-25_12-43-13_5.jpg
+172,0,pedestrian crossing,opened,960,1280,photo_23_2024-12-18_13-03-52.jpg,dataset_top12\pedestrian crossing\opened\photo_23_2024-12-18_13-03-52.jpg
+2286,1,give way,opened,559,558,photo_61_2024-12-19_02-00-53.jpg,dataset_top12\give way\opened\photo_61_2024-12-19_02-00-53.jpg
+5123,11,no entry,opened,960,1280,photo_74_2024-12-18_02-28-33.jpg,dataset_top12\no entry\opened\photo_74_2024-12-18_02-28-33.jpg
+1570,0,pedestrian crossing,closed,960,1280,photo_5278624148517676621_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676621_y.jpg
+899,0,pedestrian crossing,closed,3468,3731,20241102_114900.jpg,dataset_top12\pedestrian crossing\closed\20241102_114900.jpg
+2154,1,give way,opened,960,1280,photo_14_2024-12-18_02-33-06.jpg,dataset_top12\give way\opened\photo_14_2024-12-18_02-33-06.jpg
+4245,7,stop line,opened,676,694,photo_43_2024-12-18_02-10-22.jpg,dataset_top12\stop line\opened\photo_43_2024-12-18_02-10-22.jpg
+2852,2,tow truck,opened,758,752,photo_52_2024-12-19_02-00-05.jpg,dataset_top12\tow truck\opened\photo_52_2024-12-19_02-00-05.jpg
+3839,5,maximum speed limit_40,opened,960,847,photo_94_2024-12-18_13-01-24.jpg,dataset_top12\maximum speed limit_40\opened\photo_94_2024-12-18_13-01-24.jpg
+140,0,pedestrian crossing,opened,822,796,photo_20_2024-12-18_02-25-50.jpg,dataset_top12\pedestrian crossing\opened\photo_20_2024-12-18_02-25-50.jpg
+2735,2,tow truck,opened,449,397,photo_17_2024-12-19_02-03-02.jpg,dataset_top12\tow truck\opened\photo_17_2024-12-19_02-03-02.jpg
+1815,0,pedestrian crossing,closed,960,1280,photo_67_2024-10-29_09-42-50.jpg,dataset_top12\pedestrian crossing\closed\photo_67_2024-10-29_09-42-50.jpg
+1692,0,pedestrian crossing,closed,456,430,photo_54_2024-12-09_12-49-48.jpg,dataset_top12\pedestrian crossing\closed\photo_54_2024-12-09_12-49-48.jpg
+3359,4,parking place,opened,960,1280,photo_10_2024-12-18_02-17-32.jpg,dataset_top12\parking place\opened\photo_10_2024-12-18_02-17-32.jpg
+2696,1,give way,closed,960,1280,photo_93_2024-12-06_22-24-22.jpg,dataset_top12\give way\closed\photo_93_2024-12-06_22-24-22.jpg
+2610,1,give way,closed,960,1280,photo_52_2024-12-09_12-49-48.jpg,dataset_top12\give way\closed\photo_52_2024-12-09_12-49-48.jpg
+4773,9,straight,opened,158,156,photo_58_2024-04-25_12-41-12.jpg,dataset_top12\straight\opened\photo_58_2024-04-25_12-41-12.jpg
+2928,2,tow truck,opened,851,738,photo_82_2024-12-18_12-58-24.jpg,dataset_top12\tow truck\opened\photo_82_2024-12-18_12-58-24.jpg
+1513,0,pedestrian crossing,closed,960,1280,photo_5278624148517676411_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676411_y.jpg
+4156,6,left,closed,368,367,photo_24_2024-11-28_18-31-49.jpg,dataset_top12\left\closed\photo_24_2024-11-28_18-31-49.jpg
+889,0,pedestrian crossing,opened,960,1280,photo_9_2024-12-18_13-03-52.jpg,dataset_top12\pedestrian crossing\opened\photo_9_2024-12-18_13-03-52.jpg
+4784,9,straight,opened,161,164,photo_5_2024-05-17_15-34-29_w.jpg,dataset_top12\straight\opened\photo_5_2024-05-17_15-34-29_w.jpg
+3257,3,no stopping,closed,1215,1280,photo_19_2024-12-07_12-49-18.jpg,dataset_top12\no stopping\closed\photo_19_2024-12-07_12-49-18.jpg
+3517,4,parking place,opened,960,1280,photo_57_2024-12-19_02-00-05.jpg,dataset_top12\parking place\opened\photo_57_2024-12-19_02-00-05.jpg
+4461,8,right,opened,326,317,photo_15_2024-04-25_12-43-13.jpg,dataset_top12\right\opened\photo_15_2024-04-25_12-43-13.jpg
+5116,11,no entry,opened,960,1280,photo_6_2024-12-18_02-17-59.jpg,dataset_top12\no entry\opened\photo_6_2024-12-18_02-17-59.jpg
+2819,2,tow truck,opened,1280,911,photo_40_2024-12-18_02-27-08.jpg,dataset_top12\tow truck\opened\photo_40_2024-12-18_02-27-08.jpg
+2724,2,tow truck,opened,447,417,photo_14_2024-12-19_02-00-05.jpg,dataset_top12\tow truck\opened\photo_14_2024-12-19_02-00-05.jpg
+1051,0,pedestrian crossing,closed,960,1280,photo_15_2024-10-29_09-53-08.jpg,dataset_top12\pedestrian crossing\closed\photo_15_2024-10-29_09-53-08.jpg
+443,0,pedestrian crossing,opened,960,1280,photo_50_2024-12-18_02-28-33.jpg,dataset_top12\pedestrian crossing\opened\photo_50_2024-12-18_02-28-33.jpg
+2840,2,tow truck,opened,848,813,photo_47_2024-12-18_02-25-50.jpg,dataset_top12\tow truck\opened\photo_47_2024-12-18_02-25-50.jpg
+587,0,pedestrian crossing,opened,708,676,photo_67_2024-12-18_02-36-53.jpg,dataset_top12\pedestrian crossing\opened\photo_67_2024-12-18_02-36-53.jpg
+5098,11,no entry,opened,960,1280,photo_54_2024-12-18_02-28-33.jpg,dataset_top12\no entry\opened\photo_54_2024-12-18_02-28-33.jpg
+304,0,pedestrian crossing,opened,960,1280,photo_35_2024-12-19_02-04-55.jpg,dataset_top12\pedestrian crossing\opened\photo_35_2024-12-19_02-04-55.jpg
+4866,10,bus stop,opened,960,1280,photo_98_2024-12-18_02-28-33.jpg,dataset_top12\bus stop\opened\photo_98_2024-12-18_02-28-33.jpg
+533,0,pedestrian crossing,opened,960,1280,photo_61_2024-12-09_12-49-48.jpg,dataset_top12\pedestrian crossing\opened\photo_61_2024-12-09_12-49-48.jpg
+1909,0,pedestrian crossing,closed,960,1280,photo_75_2024-12-07_12-48-37.jpg,dataset_top12\pedestrian crossing\closed\photo_75_2024-12-07_12-48-37.jpg
+277,0,pedestrian crossing,opened,960,1280,photo_33_2024-12-18_12-58-24.jpg,dataset_top12\pedestrian crossing\opened\photo_33_2024-12-18_12-58-24.jpg
+2666,1,give way,closed,960,1280,photo_79_2024-12-06_22-24-22.jpg,dataset_top12\give way\closed\photo_79_2024-12-06_22-24-22.jpg
+4767,9,straight,opened,400,400,photo_4_2024-05-17_15-34-30.jpg,dataset_top12\straight\opened\photo_4_2024-05-17_15-34-30.jpg
+5060,11,no entry,opened,960,1280,photo_38_2024-12-18_02-17-59.jpg,dataset_top12\no entry\opened\photo_38_2024-12-18_02-17-59.jpg
+1708,0,pedestrian crossing,closed,960,1280,photo_56_2024-12-07_12-49-18.jpg,dataset_top12\pedestrian crossing\closed\photo_56_2024-12-07_12-49-18.jpg
+4267,7,stop line,opened,777,742,photo_50_2024-12-18_12-58-24.jpg,dataset_top12\stop line\opened\photo_50_2024-12-18_12-58-24.jpg
+201,0,pedestrian crossing,opened,960,1280,photo_26_2024-12-19_00-10-31.jpg,dataset_top12\pedestrian crossing\opened\photo_26_2024-12-19_00-10-31.jpg
+3852,5,maximum speed limit_40,opened,558,561,photo_9_2024-12-18_02-22-39.jpg,dataset_top12\maximum speed limit_40\opened\photo_9_2024-12-18_02-22-39.jpg
+3854,5,maximum speed limit_40,closed,1574,1386,IMG_20241017_181521.jpg,dataset_top12\maximum speed limit_40\closed\IMG_20241017_181521.jpg
+128,0,pedestrian crossing,opened,960,1280,photo_1_2024-12-18_02-28-33.jpg,dataset_top12\pedestrian crossing\opened\photo_1_2024-12-18_02-28-33.jpg
+805,0,pedestrian crossing,opened,960,1280,photo_90_2024-12-18_13-00-25.jpg,dataset_top12\pedestrian crossing\opened\photo_90_2024-12-18_13-00-25.jpg
+3179,3,no stopping,opened,960,1280,photo_85_2024-12-18_02-19-24.jpg,dataset_top12\no stopping\opened\photo_85_2024-12-18_02-19-24.jpg
+667,0,pedestrian crossing,opened,960,1280,photo_75_2024-12-18_02-33-06.jpg,dataset_top12\pedestrian crossing\opened\photo_75_2024-12-18_02-33-06.jpg
+1341,0,pedestrian crossing,closed,960,1280,photo_43_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_43_2024-12-07_12-48-02.jpg
+1612,0,pedestrian crossing,closed,722,1280,photo_5278624148517676730_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676730_y.jpg
+4486,8,right,opened,71,81,photo_21_2024-04-25_12-43-13_9.jpg,dataset_top12\right\opened\photo_21_2024-04-25_12-43-13_9.jpg
+3454,4,parking place,opened,810,317,photo_37_2024-12-18_02-27-08.jpg,dataset_top12\parking place\opened\photo_37_2024-12-18_02-27-08.jpg
+4984,10,bus stop,closed,960,1280,photo_70_2024-12-06_22-25-23.jpg,dataset_top12\bus stop\closed\photo_70_2024-12-06_22-25-23.jpg
+2802,2,tow truck,opened,581,578,photo_34_2024-12-19_02-00-05.jpg,dataset_top12\tow truck\opened\photo_34_2024-12-19_02-00-05.jpg
+1197,0,pedestrian crossing,closed,960,1280,photo_2_2024-12-06_22-24-57.jpg,dataset_top12\pedestrian crossing\closed\photo_2_2024-12-06_22-24-57.jpg
+264,0,pedestrian crossing,opened,960,1280,photo_31_2024-12-19_02-04-55.jpg,dataset_top12\pedestrian crossing\opened\photo_31_2024-12-19_02-04-55.jpg
+497,0,pedestrian crossing,opened,960,1280,photo_57_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\opened\photo_57_2024-12-18_13-06-32.jpg
+479,0,pedestrian crossing,opened,770,826,photo_55_2024-12-18_02-33-06.jpg,dataset_top12\pedestrian crossing\opened\photo_55_2024-12-18_02-33-06.jpg
+2210,1,give way,opened,960,1280,photo_27_2024-12-19_02-00-53.jpg,dataset_top12\give way\opened\photo_27_2024-12-19_02-00-53.jpg
+4000,6,left,opened,480,493,photo_13_2024-12-19_02-04-54.jpg,dataset_top12\left\opened\photo_13_2024-12-19_02-04-54.jpg
+2706,1,give way,closed,694,752,photo_97_2024-10-29_09-53-51.jpg,dataset_top12\give way\closed\photo_97_2024-10-29_09-53-51.jpg
+3915,5,maximum speed limit_40,closed,1280,956,photo_76_2024-12-05_22-22-53.jpg,dataset_top12\maximum speed limit_40\closed\photo_76_2024-12-05_22-22-53.jpg
+3614,4,parking place,opened,960,1280,photo_91_2024-12-19_01-59-18.jpg,dataset_top12\parking place\opened\photo_91_2024-12-19_01-59-18.jpg
+2625,1,give way,closed,1248,1280,photo_59_2024-12-07_12-47-32.jpg,dataset_top12\give way\closed\photo_59_2024-12-07_12-47-32.jpg
+965,0,pedestrian crossing,closed,4640,3472,IMG_20241029_174337.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_174337.jpg
+1900,0,pedestrian crossing,closed,960,1280,photo_74_2024-12-07_12-49-18.jpg,dataset_top12\pedestrian crossing\closed\photo_74_2024-12-07_12-49-18.jpg
+3016,2,tow truck,closed,1129,702,photo_75_2024-12-07_12-46-52.jpg,dataset_top12\tow truck\closed\photo_75_2024-12-07_12-46-52.jpg
+629,0,pedestrian crossing,opened,960,1280,photo_70_2024-12-19_01-58-39.jpg,dataset_top12\pedestrian crossing\opened\photo_70_2024-12-19_01-58-39.jpg
+245,0,pedestrian crossing,opened,960,1280,photo_2_2024-12-18_13-00-25.jpg,dataset_top12\pedestrian crossing\opened\photo_2_2024-12-18_13-00-25.jpg
+1751,0,pedestrian crossing,closed,960,1280,photo_60_2024-10-29_09-42-50.jpg,dataset_top12\pedestrian crossing\closed\photo_60_2024-10-29_09-42-50.jpg
+1813,0,pedestrian crossing,closed,960,1280,photo_66_2024-12-07_12-51-07.jpg,dataset_top12\pedestrian crossing\closed\photo_66_2024-12-07_12-51-07.jpg
+341,0,pedestrian crossing,opened,960,849,photo_39_2024-12-18_02-29-08.jpg,dataset_top12\pedestrian crossing\opened\photo_39_2024-12-18_02-29-08.jpg
+520,0,pedestrian crossing,opened,681,631,photo_5_2024-12-18_13-01-24.jpg,dataset_top12\pedestrian crossing\opened\photo_5_2024-12-18_13-01-24.jpg
+1273,0,pedestrian crossing,closed,960,1280,photo_37_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_37_2024-10-29_09-53-51.jpg
+2312,1,give way,opened,381,371,photo_73_2024-12-18_02-36-53.jpg,dataset_top12\give way\opened\photo_73_2024-12-18_02-36-53.jpg
+2585,1,give way,closed,960,1280,photo_5278624148517676651_y.jpg,dataset_top12\give way\closed\photo_5278624148517676651_y.jpg
+2531,1,give way,closed,1170,596,photo_3_2024-12-07_12-51-07.jpg,dataset_top12\give way\closed\photo_3_2024-12-07_12-51-07.jpg
+4397,7,stop line,closed,880,854,photo_77_2024-12-06_22-24-57.jpg,dataset_top12\stop line\closed\photo_77_2024-12-06_22-24-57.jpg
+2129,0,pedestrian crossing,closed,960,1280,photo_9_2024-10-29_09-54-21.jpg,dataset_top12\pedestrian crossing\closed\photo_9_2024-10-29_09-54-21.jpg
+1779,0,pedestrian crossing,closed,960,1280,photo_63_2024-12-05_22-23-10.jpg,dataset_top12\pedestrian crossing\closed\photo_63_2024-12-05_22-23-10.jpg
+3328,3,no stopping,closed,528,522,photo_82_2024-12-07_12-46-04.jpg,dataset_top12\no stopping\closed\photo_82_2024-12-07_12-46-04.jpg
+3511,4,parking place,opened,960,1280,photo_57_2024-12-09_12-46-32.jpg,dataset_top12\parking place\opened\photo_57_2024-12-09_12-46-32.jpg
+3434,4,parking place,opened,960,1280,photo_29_2024-12-18_12-58-24.jpg,dataset_top12\parking place\opened\photo_29_2024-12-18_12-58-24.jpg
+3459,4,parking place,opened,960,1280,photo_39_2024-12-09_12-46-32.jpg,dataset_top12\parking place\opened\photo_39_2024-12-09_12-46-32.jpg
+5079,11,no entry,opened,960,1280,photo_46_2024-12-18_02-27-47.jpg,dataset_top12\no entry\opened\photo_46_2024-12-18_02-27-47.jpg
+2879,2,tow truck,opened,557,602,photo_60_2024-12-19_02-03-02.jpg,dataset_top12\tow truck\opened\photo_60_2024-12-19_02-03-02.jpg
+2042,0,pedestrian crossing,closed,960,1280,photo_88_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_88_2024-12-07_12-48-02.jpg
+4900,10,bus stop,closed,1079,1280,photo_18_2024-12-07_12-46-52.jpg,dataset_top12\bus stop\closed\photo_18_2024-12-07_12-46-52.jpg
+1880,0,pedestrian crossing,closed,607,599,photo_72_2024-12-09_12-45-24.jpg,dataset_top12\pedestrian crossing\closed\photo_72_2024-12-09_12-45-24.jpg
+4533,8,right,opened,124,131,photo_37_2024-04-25_12-20-30_9.jpg,dataset_top12\right\opened\photo_37_2024-04-25_12-20-30_9.jpg
+4479,8,right,opened,289,350,photo_1_2024-04-25_12-20-30_2.jpg,dataset_top12\right\opened\photo_1_2024-04-25_12-20-30_2.jpg
+5170,11,no entry,closed,960,1280,photo_73_2024-12-09_12-46-01.jpg,dataset_top12\no entry\closed\photo_73_2024-12-09_12-46-01.jpg
+1668,0,pedestrian crossing,closed,720,1280,photo_5282859763660611958_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5282859763660611958_y.jpg
+3141,3,no stopping,opened,960,1280,photo_69_2024-12-18_02-19-24.jpg,dataset_top12\no stopping\opened\photo_69_2024-12-18_02-19-24.jpg
+904,0,pedestrian crossing,closed,2609,2975,20241102_120048.jpg,dataset_top12\pedestrian crossing\closed\20241102_120048.jpg
+5109,11,no entry,opened,960,1280,photo_62_2024-12-18_13-01-24.jpg,dataset_top12\no entry\opened\photo_62_2024-12-18_13-01-24.jpg
+3590,4,parking place,opened,960,1280,photo_82_2024-12-19_01-59-18.jpg,dataset_top12\parking place\opened\photo_82_2024-12-19_01-59-18.jpg
+4328,7,stop line,opened,739,1000,photo_9_2024-12-18_02-11-31.jpg,dataset_top12\stop line\opened\photo_9_2024-12-18_02-11-31.jpg
+3309,3,no stopping,closed,1280,868,photo_71_2024-12-07_12-47-32.jpg,dataset_top12\no stopping\closed\photo_71_2024-12-07_12-47-32.jpg
+1942,0,pedestrian crossing,closed,960,1280,photo_79_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_79_2024-10-29_09-53-51.jpg
+75,0,pedestrian crossing,opened,834,747,photo_15_2024-12-18_13-05-23.jpg,dataset_top12\pedestrian crossing\opened\photo_15_2024-12-18_13-05-23.jpg
+2048,0,pedestrian crossing,closed,960,1280,photo_89_2024-12-05_22-23-10.jpg,dataset_top12\pedestrian crossing\closed\photo_89_2024-12-05_22-23-10.jpg
+4771,9,straight,opened,237,249,photo_52_2024-04-25_12-41-12.jpg,dataset_top12\straight\opened\photo_52_2024-04-25_12-41-12.jpg
+4595,8,right,opened,209,220,photo_7_2024-04-25_12-20-30.jpg,dataset_top12\right\opened\photo_7_2024-04-25_12-20-30.jpg
+558,0,pedestrian crossing,opened,960,1280,photo_64_2024-12-18_02-28-33.jpg,dataset_top12\pedestrian crossing\opened\photo_64_2024-12-18_02-28-33.jpg
+1954,0,pedestrian crossing,closed,960,1280,photo_7_2024-12-07_12-48-36.jpg,dataset_top12\pedestrian crossing\closed\photo_7_2024-12-07_12-48-36.jpg
+1898,0,pedestrian crossing,closed,960,1280,photo_74_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_74_2024-12-07_12-48-02.jpg
+1895,0,pedestrian crossing,closed,960,1280,photo_74_2024-12-06_22-25-52.jpg,dataset_top12\pedestrian crossing\closed\photo_74_2024-12-06_22-25-52.jpg
+952,0,pedestrian crossing,closed,4640,3472,IMG_20241029_174151.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_174151.jpg
+1522,0,pedestrian crossing,closed,960,1280,photo_5278624148517676445_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676445_y.jpg
+1911,0,pedestrian crossing,closed,960,1280,photo_75_2024-12-07_12-51-07.jpg,dataset_top12\pedestrian crossing\closed\photo_75_2024-12-07_12-51-07.jpg
+3296,3,no stopping,closed,1174,1005,photo_62_2024-12-07_12-46-04.jpg,dataset_top12\no stopping\closed\photo_62_2024-12-07_12-46-04.jpg
+1179,0,pedestrian crossing,closed,1100,1280,photo_28_2024-12-07_12-47-32.jpg,dataset_top12\pedestrian crossing\closed\photo_28_2024-12-07_12-47-32.jpg
+4975,10,bus stop,closed,960,1280,photo_56_2024-10-29_09-54-21.jpg,dataset_top12\bus stop\closed\photo_56_2024-10-29_09-54-21.jpg
+3222,3,no stopping,closed,2654,2671,20241102_115036.jpg,dataset_top12\no stopping\closed\20241102_115036.jpg
+2247,1,give way,opened,960,1280,photo_41_2024-12-18_02-10-22.jpg,dataset_top12\give way\opened\photo_41_2024-12-18_02-10-22.jpg
+2657,1,give way,closed,960,1280,photo_73_2024-12-06_22-24-57.jpg,dataset_top12\give way\closed\photo_73_2024-12-06_22-24-57.jpg
+290,0,pedestrian crossing,opened,960,1280,photo_34_2024-12-18_13-05-57.jpg,dataset_top12\pedestrian crossing\opened\photo_34_2024-12-18_13-05-57.jpg
+4174,7,stop line,opened,699,696,photo_100_2024-12-18_02-36-53.jpg,dataset_top12\stop line\opened\photo_100_2024-12-18_02-36-53.jpg
+3443,4,parking place,opened,960,1280,photo_31_2024-12-09_12-46-32.jpg,dataset_top12\parking place\opened\photo_31_2024-12-09_12-46-32.jpg
+637,0,pedestrian crossing,opened,960,1280,photo_71_2024-12-18_13-05-57.jpg,dataset_top12\pedestrian crossing\opened\photo_71_2024-12-18_13-05-57.jpg
+666,0,pedestrian crossing,opened,960,1280,photo_75_2024-12-18_02-17-32.jpg,dataset_top12\pedestrian crossing\opened\photo_75_2024-12-18_02-17-32.jpg
+3130,3,no stopping,opened,960,1280,photo_60_2024-12-18_13-00-25.jpg,dataset_top12\no stopping\opened\photo_60_2024-12-18_13-00-25.jpg
+4384,7,stop line,closed,598,581,photo_5_2024-12-07_12-49-18.jpg,dataset_top12\stop line\closed\photo_5_2024-12-07_12-49-18.jpg
+2246,1,give way,opened,620,586,photo_3_2024-12-19_02-00-53.jpg,dataset_top12\give way\opened\photo_3_2024-12-19_02-00-53.jpg
+529,0,pedestrian crossing,opened,960,1280,photo_60_2024-12-19_00-10-31.jpg,dataset_top12\pedestrian crossing\opened\photo_60_2024-12-19_00-10-31.jpg
+1714,0,pedestrian crossing,closed,960,1280,photo_57_2024-12-05_22-23-10.jpg,dataset_top12\pedestrian crossing\closed\photo_57_2024-12-05_22-23-10.jpg
+4386,7,stop line,closed,684,660,photo_62_2024-12-07_12-47-32.jpg,dataset_top12\stop line\closed\photo_62_2024-12-07_12-47-32.jpg
+2018,0,pedestrian crossing,closed,960,1280,photo_86_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_86_2024-10-29_09-53-51.jpg
+1467,0,pedestrian crossing,closed,960,1280,photo_5278624148517676347_y (1).jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676347_y (1).jpg
+296,0,pedestrian crossing,opened,960,1280,photo_35_2024-12-18_02-27-47.jpg,dataset_top12\pedestrian crossing\opened\photo_35_2024-12-18_02-27-47.jpg
+2638,1,give way,closed,1237,1280,photo_64_2024-12-07_12-47-32.jpg,dataset_top12\give way\closed\photo_64_2024-12-07_12-47-32.jpg
+4330,7,stop line,closed,4624,3468,20241102_112216.jpg,dataset_top12\stop line\closed\20241102_112216.jpg
+4022,6,left,opened,254,254,photo_21_2024-04-25_12-41-12.jpg,dataset_top12\left\opened\photo_21_2024-04-25_12-41-12.jpg
+4998,10,bus stop,closed,960,1280,photo_80_2024-12-09_12-46-32.jpg,dataset_top12\bus stop\closed\photo_80_2024-12-09_12-46-32.jpg
+1098,0,pedestrian crossing,closed,960,1280,photo_1_2024-12-18_02-36-53.jpg,dataset_top12\pedestrian crossing\closed\photo_1_2024-12-18_02-36-53.jpg
+4347,7,stop line,closed,648,640,photo_29_2024-12-06_22-24-57.jpg,dataset_top12\stop line\closed\photo_29_2024-12-06_22-24-57.jpg
+5171,11,no entry,closed,442,464,photo_74_2024-12-18_02-25-50.jpg,dataset_top12\no entry\closed\photo_74_2024-12-18_02-25-50.jpg
+1841,0,pedestrian crossing,closed,1139,1280,photo_69_2024-12-07_12-48-37.jpg,dataset_top12\pedestrian crossing\closed\photo_69_2024-12-07_12-48-37.jpg
+4692,9,straight,opened,123,114,photo_15_2024-04-25_12-43-13_5.jpg,dataset_top12\straight\opened\photo_15_2024-04-25_12-43-13_5.jpg
+1974,0,pedestrian crossing,closed,960,1280,photo_81_2024-12-06_22-25-52.jpg,dataset_top12\pedestrian crossing\closed\photo_81_2024-12-06_22-25-52.jpg
+770,0,pedestrian crossing,opened,960,1280,photo_87_2024-12-18_02-36-53.jpg,dataset_top12\pedestrian crossing\opened\photo_87_2024-12-18_02-36-53.jpg
+1905,0,pedestrian crossing,closed,960,1280,photo_75_2024-12-05_22-22-53.jpg,dataset_top12\pedestrian crossing\closed\photo_75_2024-12-05_22-22-53.jpg
+4230,7,stop line,opened,846,829,photo_33_2024-12-18_13-01-24.jpg,dataset_top12\stop line\opened\photo_33_2024-12-18_13-01-24.jpg
+2897,2,tow truck,opened,624,620,photo_68_2024-12-18_02-17-59.jpg,dataset_top12\tow truck\opened\photo_68_2024-12-18_02-17-59.jpg
+1256,0,pedestrian crossing,closed,1059,1038,photo_35_2024-12-07_12-48-02.jpg,dataset_top12\pedestrian crossing\closed\photo_35_2024-12-07_12-48-02.jpg
+2244,1,give way,opened,960,1280,photo_3_2024-12-09_12-46-01.jpg,dataset_top12\give way\opened\photo_3_2024-12-09_12-46-01.jpg
+3807,5,maximum speed limit_40,opened,604,649,photo_76_2024-12-19_02-03-02.jpg,dataset_top12\maximum speed limit_40\opened\photo_76_2024-12-19_02-03-02.jpg
+1783,0,pedestrian crossing,closed,538,535,photo_63_2024-12-09_12-45-24.jpg,dataset_top12\pedestrian crossing\closed\photo_63_2024-12-09_12-45-24.jpg
+4077,6,left,opened,224,231,photo_43_2024-04-25_12-43-13.jpg,dataset_top12\left\opened\photo_43_2024-04-25_12-43-13.jpg
+3004,2,tow truck,closed,823,607,photo_54_2024-12-07_12-46-04.jpg,dataset_top12\tow truck\closed\photo_54_2024-12-07_12-46-04.jpg
+3174,3,no stopping,opened,960,1280,photo_82_2024-12-18_02-28-33.jpg,dataset_top12\no stopping\opened\photo_82_2024-12-18_02-28-33.jpg
+3449,4,parking place,opened,960,1280,photo_33_2024-12-18_02-27-47.jpg,dataset_top12\parking place\opened\photo_33_2024-12-18_02-27-47.jpg
+4279,7,stop line,opened,808,699,photo_54_2024-12-18_13-01-24.jpg,dataset_top12\stop line\opened\photo_54_2024-12-18_13-01-24.jpg
+4314,7,stop line,opened,960,706,photo_80_2024-12-18_13-01-24.jpg,dataset_top12\stop line\opened\photo_80_2024-12-18_13-01-24.jpg
+554,0,pedestrian crossing,opened,960,1280,photo_63_2024-12-19_01-58-39.jpg,dataset_top12\pedestrian crossing\opened\photo_63_2024-12-19_01-58-39.jpg
+4644,9,straight,opened,216,492,IMG_0769.JPG,dataset_top12\straight\opened\IMG_0769.JPG
+4142,6,left,closed,343,344,photo_11_2024-11-28_18-31-49.jpg,dataset_top12\left\closed\photo_11_2024-11-28_18-31-49.jpg
+1969,0,pedestrian crossing,closed,959,1280,photo_81_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_81_2024-10-29_09-53-51.jpg
+971,0,pedestrian crossing,closed,4640,3472,IMG_20241029_174707.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_174707.jpg
+3241,3,no stopping,closed,470,484,photo_10_2024-10-29_09-53-51.jpg,dataset_top12\no stopping\closed\photo_10_2024-10-29_09-53-51.jpg
+3515,4,parking place,opened,960,1280,photo_57_2024-12-18_13-01-24.jpg,dataset_top12\parking place\opened\photo_57_2024-12-18_13-01-24.jpg
+2924,2,tow truck,opened,781,747,photo_81_2024-12-18_12-58-24.jpg,dataset_top12\tow truck\opened\photo_81_2024-12-18_12-58-24.jpg
+2152,1,give way,opened,1280,1242,photo_14_2024-12-18_02-27-08.jpg,dataset_top12\give way\opened\photo_14_2024-12-18_02-27-08.jpg
+625,0,pedestrian crossing,opened,960,1280,photo_70_2024-12-18_02-25-50.jpg,dataset_top12\pedestrian crossing\opened\photo_70_2024-12-18_02-25-50.jpg
+4281,7,stop line,opened,960,1280,photo_55_2024-12-09_12-49-48.jpg,dataset_top12\stop line\opened\photo_55_2024-12-09_12-49-48.jpg
+1600,0,pedestrian crossing,closed,720,1280,photo_5278624148517676710_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676710_y.jpg
+2694,1,give way,closed,1280,880,photo_92_2024-12-05_22-23-25.jpg,dataset_top12\give way\closed\photo_92_2024-12-05_22-23-25.jpg
+1579,0,pedestrian crossing,closed,960,1280,photo_5278624148517676643_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676643_y.jpg
+650,0,pedestrian crossing,opened,960,1280,photo_72_2024-12-19_01-58-39.jpg,dataset_top12\pedestrian crossing\opened\photo_72_2024-12-19_01-58-39.jpg
+3673,5,maximum speed limit_40,opened,567,541,photo_12_2024-10-29_09-53-08.jpg,dataset_top12\maximum speed limit_40\opened\photo_12_2024-10-29_09-53-08.jpg
+3164,3,no stopping,opened,960,1280,photo_78_2024-12-18_02-19-24.jpg,dataset_top12\no stopping\opened\photo_78_2024-12-18_02-19-24.jpg
+998,0,pedestrian crossing,closed,4640,3472,IMG_20241029_180621.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_180621.jpg
+2482,1,give way,closed,959,1280,photo_21_2024-12-07_12-46-04.jpg,dataset_top12\give way\closed\photo_21_2024-12-07_12-46-04.jpg
+3932,6,left,opened,498,603,IMG_0761_9.JPG,dataset_top12\left\opened\IMG_0761_9.JPG
+2799,2,tow truck,opened,664,660,photo_33_2024-12-19_02-00-53.jpg,dataset_top12\tow truck\opened\photo_33_2024-12-19_02-00-53.jpg
+1358,0,pedestrian crossing,closed,976,1280,photo_45_2024-12-07_12-46-52.jpg,dataset_top12\pedestrian crossing\closed\photo_45_2024-12-07_12-46-52.jpg
+3112,3,no stopping,opened,1280,912,photo_47_2024-12-18_02-27-08.jpg,dataset_top12\no stopping\opened\photo_47_2024-12-18_02-27-08.jpg
+188,0,pedestrian crossing,opened,960,1280,photo_25_2024-12-18_02-27-47.jpg,dataset_top12\pedestrian crossing\opened\photo_25_2024-12-18_02-27-47.jpg
+2609,1,give way,closed,960,1280,photo_52_2024-12-07_12-49-18.jpg,dataset_top12\give way\closed\photo_52_2024-12-07_12-49-18.jpg
+2128,0,pedestrian crossing,closed,960,1280,photo_9_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_9_2024-10-29_09-53-51.jpg
+2986,2,tow truck,closed,1487,1457,IMG_20241017_161854.jpg,dataset_top12\tow truck\closed\IMG_20241017_161854.jpg
+3685,5,maximum speed limit_40,opened,1230,1280,photo_16_2024-12-18_02-27-08.jpg,dataset_top12\maximum speed limit_40\opened\photo_16_2024-12-18_02-27-08.jpg
+1550,0,pedestrian crossing,closed,960,1280,photo_5278624148517676577_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676577_y.jpg
+5094,11,no entry,opened,960,1280,photo_51_2024-12-18_13-05-23.jpg,dataset_top12\no entry\opened\photo_51_2024-12-18_13-05-23.jpg
+4520,8,right,opened,430,499,photo_33_2024-04-25_12-41-12.jpg,dataset_top12\right\opened\photo_33_2024-04-25_12-41-12.jpg
+268,0,pedestrian crossing,opened,960,1280,photo_32_2024-12-18_13-02-03.jpg,dataset_top12\pedestrian crossing\opened\photo_32_2024-12-18_13-02-03.jpg
+4491,8,right,opened,331,335,photo_23_2024-04-25_12-20-30.jpg,dataset_top12\right\opened\photo_23_2024-04-25_12-20-30.jpg
+975,0,pedestrian crossing,closed,4640,3472,IMG_20241029_174859.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_174859.jpg
+213,0,pedestrian crossing,opened,878,913,photo_27_2024-12-18_13-06-32.jpg,dataset_top12\pedestrian crossing\opened\photo_27_2024-12-18_13-06-32.jpg
+3661,4,parking place,closed,1280,975,photo_85_2024-12-18_02-27-08.jpg,dataset_top12\parking place\closed\photo_85_2024-12-18_02-27-08.jpg
+267,0,pedestrian crossing,opened,960,1280,photo_32_2024-12-18_02-36-53.jpg,dataset_top12\pedestrian crossing\opened\photo_32_2024-12-18_02-36-53.jpg
+1933,0,pedestrian crossing,closed,960,1280,photo_78_2024-10-29_09-54-21.jpg,dataset_top12\pedestrian crossing\closed\photo_78_2024-10-29_09-54-21.jpg
+448,0,pedestrian crossing,opened,960,1280,photo_51_2024-12-18_02-25-50.jpg,dataset_top12\pedestrian crossing\opened\photo_51_2024-12-18_02-25-50.jpg
+1282,0,pedestrian crossing,closed,960,1280,photo_38_2024-12-05_22-23-10.jpg,dataset_top12\pedestrian crossing\closed\photo_38_2024-12-05_22-23-10.jpg
+2282,1,give way,opened,385,335,photo_59_2024-12-18_02-36-53.jpg,dataset_top12\give way\opened\photo_59_2024-12-18_02-36-53.jpg
+3999,6,left,opened,405,409,photo_13_2024-11-28_18-39-35.jpg,dataset_top12\left\opened\photo_13_2024-11-28_18-39-35.jpg
+3888,5,maximum speed limit_40,closed,720,1280,photo_5278624148517676798_y.jpg,dataset_top12\maximum speed limit_40\closed\photo_5278624148517676798_y.jpg
+4905,10,bus stop,closed,960,1280,photo_1_2024-12-07_12-46-52.jpg,dataset_top12\bus stop\closed\photo_1_2024-12-07_12-46-52.jpg
+3352,3,no stopping,closed,1280,594,photo_96_2024-12-05_22-23-25.jpg,dataset_top12\no stopping\closed\photo_96_2024-12-05_22-23-25.jpg
+4019,6,left,opened,70,84,photo_20_2024-04-25_12-43-13_7.jpg,dataset_top12\left\opened\photo_20_2024-04-25_12-43-13_7.jpg
+2726,2,tow truck,opened,447,409,photo_15_2024-12-19_02-00-53.jpg,dataset_top12\tow truck\opened\photo_15_2024-12-19_02-00-53.jpg
+4285,7,stop line,opened,803,797,photo_57_2024-12-19_00-10-31.jpg,dataset_top12\stop line\opened\photo_57_2024-12-19_00-10-31.jpg
+1065,0,pedestrian crossing,closed,960,1280,photo_17_2024-10-29_09-53-08.jpg,dataset_top12\pedestrian crossing\closed\photo_17_2024-10-29_09-53-08.jpg
+1872,0,pedestrian crossing,closed,852,1105,photo_72_2024-10-29_09-53-51.jpg,dataset_top12\pedestrian crossing\closed\photo_72_2024-10-29_09-53-51.jpg
+354,0,pedestrian crossing,opened,960,1280,photo_3_2024-12-18_02-33-06.jpg,dataset_top12\pedestrian crossing\opened\photo_3_2024-12-18_02-33-06.jpg
+5012,10,bus stop,closed,1076,1280,photo_96_2024-12-06_22-25-52.jpg,dataset_top12\bus stop\closed\photo_96_2024-12-06_22-25-52.jpg
+2165,1,give way,opened,872,760,photo_16_2024-12-18_13-04-36.jpg,dataset_top12\give way\opened\photo_16_2024-12-18_13-04-36.jpg
+305,0,pedestrian crossing,opened,779,775,photo_36_2024-12-09_12-46-01.jpg,dataset_top12\pedestrian crossing\opened\photo_36_2024-12-09_12-46-01.jpg
+4295,7,stop line,opened,1280,685,photo_65_2024-12-18_13-01-24.jpg,dataset_top12\stop line\opened\photo_65_2024-12-18_13-01-24.jpg
+4755,9,straight,opened,95,88,photo_4_2024-04-25_12-41-12_s_0.jpg,dataset_top12\straight\opened\photo_4_2024-04-25_12-41-12_s_0.jpg
+2699,1,give way,closed,960,1280,photo_94_2024-12-06_22-24-22.jpg,dataset_top12\give way\closed\photo_94_2024-12-06_22-24-22.jpg
+2684,1,give way,closed,416,416,photo_86_2024-12-07_12-48-37_1.jpg,dataset_top12\give way\closed\photo_86_2024-12-07_12-48-37_1.jpg
+65,0,pedestrian crossing,opened,960,1280,photo_14_2024-12-18_13-07-03.jpg,dataset_top12\pedestrian crossing\opened\photo_14_2024-12-18_13-07-03.jpg
+3200,3,no stopping,opened,960,1280,photo_94_2024-12-18_02-19-24.jpg,dataset_top12\no stopping\opened\photo_94_2024-12-18_02-19-24.jpg
+500,0,pedestrian crossing,opened,1280,830,photo_58_2024-12-18_02-28-33.jpg,dataset_top12\pedestrian crossing\opened\photo_58_2024-12-18_02-28-33.jpg
+3291,3,no stopping,closed,990,899,photo_59_2024-12-07_12-46-04.jpg,dataset_top12\no stopping\closed\photo_59_2024-12-07_12-46-04.jpg
+2910,2,tow truck,opened,960,690,photo_73_2024-12-18_02-17-59.jpg,dataset_top12\tow truck\opened\photo_73_2024-12-18_02-17-59.jpg
+2171,1,give way,opened,409,398,photo_18_2024-12-18_02-36-53.jpg,dataset_top12\give way\opened\photo_18_2024-12-18_02-36-53.jpg
+1876,0,pedestrian crossing,closed,1280,1267,photo_72_2024-12-07_12-46-52.jpg,dataset_top12\pedestrian crossing\closed\photo_72_2024-12-07_12-46-52.jpg
+1349,0,pedestrian crossing,closed,960,1280,photo_44_2024-12-05_22-23-50.jpg,dataset_top12\pedestrian crossing\closed\photo_44_2024-12-05_22-23-50.jpg
+1476,0,pedestrian crossing,closed,960,1280,photo_5278624148517676356_y.jpg,dataset_top12\pedestrian crossing\closed\photo_5278624148517676356_y.jpg
+3107,3,no stopping,opened,960,1280,photo_44_2024-12-18_13-03-52.jpg,dataset_top12\no stopping\opened\photo_44_2024-12-18_13-03-52.jpg
+1952,0,pedestrian crossing,closed,960,1280,photo_7_2024-12-05_22-23-10.jpg,dataset_top12\pedestrian crossing\closed\photo_7_2024-12-05_22-23-10.jpg
+486,0,pedestrian crossing,opened,960,1280,photo_56_2024-12-18_13-04-36.jpg,dataset_top12\pedestrian crossing\opened\photo_56_2024-12-18_13-04-36.jpg
+4555,8,right,opened,542,542,photo_47_2024-12-09_12-49-48.jpg,dataset_top12\right\opened\photo_47_2024-12-09_12-49-48.jpg
+170,0,pedestrian crossing,opened,960,1280,photo_23_2024-12-09_12-49-48.jpg,dataset_top12\pedestrian crossing\opened\photo_23_2024-12-09_12-49-48.jpg
+69,0,pedestrian crossing,opened,960,1280,photo_15_2024-12-18_02-27-47.jpg,dataset_top12\pedestrian crossing\opened\photo_15_2024-12-18_02-27-47.jpg
+620,0,pedestrian crossing,opened,960,1280,photo_6_2024-12-18_13-04-36.jpg,dataset_top12\pedestrian crossing\opened\photo_6_2024-12-18_13-04-36.jpg
+4812,9,straight,opened,595,596,photo_98_2024-12-09_12-49-48.jpg,dataset_top12\straight\opened\photo_98_2024-12-09_12-49-48.jpg
+3910,5,maximum speed limit_40,closed,1280,1091,photo_67_2024-12-05_22-23-10.jpg,dataset_top12\maximum speed limit_40\closed\photo_67_2024-12-05_22-23-10.jpg
+3236,3,no stopping,closed,2400,2409,20241102_122209_1.jpg,dataset_top12\no stopping\closed\20241102_122209_1.jpg
+2665,1,give way,closed,883,1280,photo_78_2024-12-06_22-25-23.jpg,dataset_top12\give way\closed\photo_78_2024-12-06_22-25-23.jpg
+4956,10,bus stop,closed,1207,1280,photo_44_2024-12-07_12-46-52.jpg,dataset_top12\bus stop\closed\photo_44_2024-12-07_12-46-52.jpg
+2903,2,tow truck,opened,960,1280,photo_6_2024-12-18_02-25-50.jpg,dataset_top12\tow truck\opened\photo_6_2024-12-18_02-25-50.jpg
+3593,4,parking place,opened,960,1280,photo_84_2024-12-18_02-33-06.jpg,dataset_top12\parking place\opened\photo_84_2024-12-18_02-33-06.jpg
+1992,0,pedestrian crossing,closed,960,1280,photo_83_2024-12-06_22-24-22.jpg,dataset_top12\pedestrian crossing\closed\photo_83_2024-12-06_22-24-22.jpg
+1130,0,pedestrian crossing,closed,1280,846,photo_23_2024-12-05_22-23-10.jpg,dataset_top12\pedestrian crossing\closed\photo_23_2024-12-05_22-23-10.jpg
+4717,9,straight,opened,328,350,photo_27_2024-04-25_12-43-13_5.jpg,dataset_top12\straight\opened\photo_27_2024-04-25_12-43-13_5.jpg
+1240,0,pedestrian crossing,closed,438,442,photo_33_2024-12-09_12-45-24.jpg,dataset_top12\pedestrian crossing\closed\photo_33_2024-12-09_12-45-24.jpg
+2695,1,give way,closed,960,1280,photo_92_2024-12-06_22-24-22.jpg,dataset_top12\give way\closed\photo_92_2024-12-06_22-24-22.jpg
+3798,5,maximum speed limit_40,opened,636,586,photo_73_2024-12-18_13-02-04.jpg,dataset_top12\maximum speed limit_40\opened\photo_73_2024-12-18_13-02-04.jpg
+3955,6,left,opened,1062,1258,IMG_0783.JPG,dataset_top12\left\opened\IMG_0783.JPG
+1002,0,pedestrian crossing,closed,4640,3472,IMG_20241029_181846.jpg,dataset_top12\pedestrian crossing\closed\IMG_20241029_181846.jpg
+1321,0,pedestrian crossing,closed,960,1280,photo_41_2024-12-07_12-48-37.jpg,dataset_top12\pedestrian crossing\closed\photo_41_2024-12-07_12-48-37.jpg
+57,0,pedestrian crossing,opened,960,1280,photo_14_2024-12-09_12-46-01.jpg,dataset_top12\pedestrian crossing\opened\photo_14_2024-12-09_12-46-01.jpg
